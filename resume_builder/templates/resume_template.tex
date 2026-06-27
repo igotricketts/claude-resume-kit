@@ -4,11 +4,7 @@
 % FIXED sections: contain actual data -- never modify during generation
 % GENERATE sections: Claude fills in per JD using the uploaded bundle
 %
-% SETUP INSTRUCTIONS:
-% 1. Fill [CONFIG: ...] markers with values from your config.md
-% 2. Fill FIXED sections (Education, Awards, etc.) with your actual content
-% 3. Leave [GENERATE: ...] markers -- Claude fills these per JD
-% 4. Calibrate page budget after filling FIXED content (compile + count lines)
+% SETUP STATUS: CONFIG sections filled. GENERATE sections filled per JD.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass{resume}
@@ -37,49 +33,40 @@
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
 
 %----------------------------------------------------------------------------------------
-%	HEADER — FIXED (fill from config.md)
+%	HEADER — FIXED
 %----------------------------------------------------------------------------------------
 
-% FIXED: Name -- from config.md
-\name{[CONFIG: Full Name, Degree]}
+\name{Kyle Ricketts}
 
-% FIXED: Links -- include whichever you have; delete unused lines
-\address{\href{[CONFIG: website URL]}{[CONFIG: site display]} \\ \href{[CONFIG: LinkedIn URL]}{LinkedIn} \\ \href{[CONFIG: Google Scholar URL]}{Google Scholar}}
-% FIXED: Contact
-\address{[CONFIG: email] \\ [CONFIG: phone]}
-% GENERATE: Relocation target per JD
-\address{[CONFIG: City, State] (Open to relocation to [Target City])}
+\address{\href{https://linkedin.com/in/kyle-ricketts}{linkedin.com/in/kyle-ricketts}}
+\address{igotricketts@gmail.com \\ 585-747-6704}
+% GENERATE: Relocation target per JD (or remove line if not open to relocation)
+\address{Holly Springs, NC (Open to relocation to [Target City])}
 % GENERATE: Tagline -- rewrite per JD using bundle Section 2 building blocks
 % Use $\vert$ as separator between tagline phrases
-\address{{[GENERATE: Role Title $\vert$ Domain Specialty $\vert$ Key Method or Impact]}}
+\address{{[GENERATE: Role Title $\vert$ Domain Specialty $\vert$ Key Differentiator]}}
 
 \begin{document}
 
 %----------------------------------------------------------------------------------------
 %	GENERATION REFERENCE (for Claude -- not rendered in PDF)
 %----------------------------------------------------------------------------------------
-% CHARACTER LIMITS (rendered chars — strip \textbf{}, \textit{}, \ce{}, $..$ before counting):
-%   Chars per line (CPL): ~111-115 at 10pt (varies with char width distribution)
+% CHARACTER LIMITS (rendered chars — strip \textbf{}, \textit{} before counting):
+%   Chars per line (CPL): ~111-115 at 10pt
 %
 %   Resume-1L bullet: target 105-111 chars | HARD MAX 117
 %   Resume-2L bullet: target 189-205 chars | HARD MAX 218 | orphan >= 78 chars
 %
 %   AIM FOR TARGET MIDDLE (200 for 2L) — NOT the hard max.
-%   Em-dash (---) counts as 1 char but renders ~2x wide. Budget 2 extra per em-dash.
 %   Bold in bullets: ~0.42 penalty/bold char (10 bold chars ≈ lose 4 chars capacity).
 %
 % PAGE FILL BUDGET:
 %   After filling FIXED sections, compile and count rendered lines per page.
-%   Remaining lines = your variable bullet budget.
-%   Example for 2-page resume with 5 skill groups:
-%     Skills 4-3-2-2-2 (13 lines): ~21 variable bullets (2L each)
-%     Skills 4-4-2-2-2 (14 lines): ~20 variable bullets
-%   Variable bullets = sum of all GENERATE position bullets
-%   FIXED position bullets are NOT counted in the variable budget.
+%   Skills 4-3-3-3 (13 lines): ~20-21 variable bullets (2L each) across 2 pages
 %
 % POSITION FORMAT (FLIPPED):
 %   Bold line = JD-customized domain theme (strongest customization lever)
-%   Subtitle (italic) = formal role + institution
+%   Subtitle (italic) = formal role + company
 %   FIXED positions keep the same theme in every resume.
 
 \vspace{-0.15cm}
@@ -88,29 +75,32 @@
 %	SUMMARY — GENERATE per JD
 %----------------------------------------------------------------------------------------
 % GENERATE: Rewrite per JD using bundle Section 2 building blocks
-% 5 body lines (4-5 sentences). Lead with years of experience + primary methods.
-% End with publication/citation metrics if applicable.
+% 4-5 sentences. Lead with years of experience + primary function.
+% End with a forward-looking or differentiating statement.
 % Max 1 paragraph -- no line breaks.
 \begin{rSection}{Summary}
-[GENERATE: [Domain] scientist with [N]+ years combining \textbf{[primary method]} and \textbf{[secondary method]} for [application domain]. [1-2 sentences on key accomplishments tailored to JD]. [Metrics: publications, citations, awards if applicable].]
+[GENERATE: B2B Revenue Operations and GTM strategy leader with [N]+ years building scalable systems, high-performing teams, and data-driven go-to-market operations in \textbf{[industry/vertical]}. [1-2 sentences on key accomplishments tailored to JD]. [Differentiating statement: e.g. track record of delivering >120\% of bookings goals, aligning CRO-level strategy with execution-layer operations].]
 \end{rSection}
 \vspace{-0.15cm}
 
 %----------------------------------------------------------------------------------------
-%	TECHNICAL SKILLS — GENERATE per JD (Format C)
+%	CORE COMPETENCIES — GENERATE per JD (Format C)
 %----------------------------------------------------------------------------------------
-% GENERATE: 5 groups in Format C (categorized dash sub-items)
-% Default config from config.md (e.g. 4-3-2-2-2 = 13 content lines)
-% Load skills_taxonomy.md to map JD keywords to skill entries
+% GENERATE: 4 groups, 13 total lines, Format C (categorized dash sub-items)
 % Group names are JD-customizable; order most JD-relevant first
-% Bold 6-8 tools that most directly match JD keywords
+% Bold 6-8 competencies/tools that most directly match JD keywords
 % Each dash item = exactly 1 rendered line (~105-111 chars), no wrapping
-\begin{rSection}{Technical Skills}
-% FORMAT C: Use \skillgroup{} and \skilldash{} commands from resume.cls
-% Each \skilldash = exactly 1 rendered line. Char limit: 119 - (0.5 x bold_chars)
+%
+% Suggested group themes (adjust per JD):
+%   1. Revenue Strategy & Operations
+%   2. GTM Systems & Tech Stack
+%   3. Analytics & Forecasting
+%   4. Team Leadership & Cross-Functional Alignment
+\begin{rSection}{Core Competencies}
 
 \begin{skillgroup}{[GENERATE: Most JD-Relevant Domain]}
-\skilldash{[GENERATE: tools, methods — max ~105-111 chars with bold penalty]}
+\skilldash{[GENERATE: competencies, tools — max ~105-111 chars with bold penalty]}
+\skilldash{[GENERATE]}
 \skilldash{[GENERATE]}
 \skilldash{[GENERATE]}
 \end{skillgroup}
@@ -118,17 +108,21 @@
 \begin{skillgroup}{[GENERATE: Second Domain]}
 \skilldash{[GENERATE]}
 \skilldash{[GENERATE]}
+\skilldash{[GENERATE]}
 \end{skillgroup}
 
 \begin{skillgroup}{[GENERATE: Third Domain]}
 \skilldash{[GENERATE]}
-\end{skillgroup}
-
-\begin{skillgroup}{[GENERATE: Fourth Domain]}
+\skilldash{[GENERATE]}
 \skilldash{[GENERATE]}
 \end{skillgroup}
 
-\begin{skillgroup}{[GENERATE: Programming \& Tools]}
+\begin{skillgroup}{[GENERATE: Systems \& Tools]}
+% Key tech: Salesforce/CPQ, HubSpot, Snowflake, Tableau, Gong, Gainsight,
+%           QuotaPath, 6Sense, Pendo, Push.AI, Tray.io, ZoomInfo, Apollo.io,
+%           Clientell AI, Coefficient.io, GlobalData
+\skilldash{[GENERATE: bold JD-relevant tools from the stack above]}
+\skilldash{[GENERATE]}
 \skilldash{[GENERATE]}
 \end{skillgroup}
 
@@ -138,99 +132,66 @@
 %----------------------------------------------------------------------------------------
 %	EXPERIENCE — GENERATE bullets per JD; position headers are FIXED
 %----------------------------------------------------------------------------------------
-% Add one rSubsection per position. Most recent first.
-% FLIPPED format: Bold line = JD-customized theme; italic = formal role + institution.
-% Mark any position as FIXED if its bullets never change across JDs.
-\begin{rSection}{Research Experience}
+% FLIPPED format: Bold line = JD-customized theme; italic = formal role + company
+\begin{rSection}{Experience}
 
-% --- Position 1 (most recent) ---
-% GENERATE: Select bullets from bundle; bold theme line customized to JD
-\begin{rSubsection}{[GENERATE: JD-Customized Theme]}{\textcolor{black!60}{[FIXED: Start -- End]}}{[FIXED: Title, Institution]}{}
+% --- Position 1: Florence Healthcare (most recent) ---
+\begin{rSubsection}{[GENERATE: JD-Customized Theme]}{\textcolor{black!60}{Nov 2022 -- Present}}{Sr. Director, Revenue Operations $\vert$ Florence Healthcare}{}
 \item [GENERATE: Bullet 1 -- strongest JD-relevant accomplishment]
 \item [GENERATE: Bullet 2]
-\item [GENERATE: ...]
+\item [GENERATE: Bullet 3]
+\item [GENERATE: Bullet 4]
+\item [GENERATE: Bullet 5 (remove if needed for page budget)]
 \end{rSubsection}
 
-% --- Position 2 ---
-\begin{rSubsection}{[GENERATE: JD-Customized Theme]}{\textcolor{black!60}{[FIXED: Start -- End]}}{[FIXED: Title, Institution]}{}
+% --- Position 2: THREAD, Director RevOps ---
+\begin{rSubsection}{[GENERATE: JD-Customized Theme]}{\textcolor{black!60}{Jun 2021 -- Oct 2022}}{Director, Revenue Operations $\vert$ THREAD}{}
 \item [GENERATE: Bullet 1]
-\item [GENERATE: ...]
+\item [GENERATE: Bullet 2]
+\item [GENERATE: Bullet 3]
 \end{rSubsection}
 
-% --- Position 3 ---
-\begin{rSubsection}{[GENERATE: JD-Customized Theme]}{\textcolor{black!60}{[FIXED: Start -- End]}}{[FIXED: Title, Institution]}{}
+% --- Position 3: THREAD, Senior Manager Marketing ---
+\begin{rSubsection}{[GENERATE: JD-Customized Theme]}{\textcolor{black!60}{Nov 2020 -- Jun 2021}}{Senior Manager, Marketing $\vert$ THREAD}{}
 \item [GENERATE: Bullet 1]
-\item [GENERATE: ...]
+\item [GENERATE: Bullet 2]
 \end{rSubsection}
 
-% --- Optional: FIXED position (e.g. early-career internship that never changes) ---
-% Uncomment and fill if you have a short position whose bullets are always the same:
-% \begin{rSubsection}{[FIXED: Theme]}{\textcolor{black!60}{[FIXED: Dates]}}{[FIXED: Title, Institution]}{}
-% \item [FIXED: Bullet — same in every resume]
-% \item [FIXED: Bullet — same in every resume]
+% --- Position 4: Bio-Optronics, Marketing Manager ---
+\begin{rSubsection}{[GENERATE: JD-Customized Theme]}{\textcolor{black!60}{Jan 2016 -- Oct 2020}}{Marketing Manager $\vert$ Bio-Optronics (now Advarra)}{}
+\item [GENERATE: Bullet 1]
+\item [GENERATE: Bullet 2]
+\item [GENERATE: Bullet 3 (remove if needed for page budget)]
+\end{rSubsection}
+
+% --- Positions 5-6: Brand Manager + Marketing Specialist (collapse or omit) ---
+% These early roles (Bio-Optronics, 2013-2016) may be collapsed into one line
+% or omitted entirely based on page budget and JD relevance.
+% \begin{rSubsection}{\textcolor{black!60}{Earlier: Brand Manager \& Marketing Specialist}}{\textcolor{black!60}{Jul 2013 -- Jan 2016}}{Bio-Optronics}{}
+% \item [GENERATE: 1 brief line if included]
 % \end{rSubsection}
 
 \end{rSection}
 \vspace{-0.15cm}
 
 %----------------------------------------------------------------------------------------
-%	EDUCATION — FIXED: Fill with your actual education
+%	EDUCATION — FIXED
 %----------------------------------------------------------------------------------------
-% Each entry: {Degree (honors)} \hfill {Years} \\ {Institution}, Location \hfill GPA
 
 \begin{rSection}{Education}
-{[FIXED: Degree Title]} \hfill {\textcolor{black!60}{[FIXED: Start -- End]}}\\
-{[FIXED: Institution]}, [FIXED: Location] \hfill GPA: \textbf{[FIXED]}/[FIXED]
+{Master of Business Administration (MBA)} \hfill {\textcolor{black!60}{}}\\
+{Rochester Institute of Technology}, Rochester, NY
 
-{[FIXED: Degree Title]} \hfill {\textcolor{black!60}{[FIXED: Start -- End]}}\\
-{[FIXED: Institution]}, [FIXED: Location] \hfill GPA: \textbf{[FIXED]}/[FIXED]
+{Bachelor of Science, Marketing} \hfill {\textcolor{black!60}{}}\\
+{Rochester Institute of Technology}, Rochester, NY
 \end{rSection}
 \vspace{-0.15cm}
 
 %----------------------------------------------------------------------------------------
-%	SELECTED PUBLICATIONS — GENERATE: Claude picks 5 per JD relevance
+%	HONORS & AWARDS — Optional: fill in if applicable, otherwise delete this section
 %----------------------------------------------------------------------------------------
-% GENERATE: Score publications per JD relevance using pub_metadata.md
-% Copy-paste FIXED author + journal LaTeX blocks from pub_metadata.md
-% GENERATE JD-shortened title + JD-relevant keyword tags at runtime
-% 2-line hard limit per entry, last line >= 70% filled
-% Prioritize: first-author > co-first > contributing; high-impact > standard
-\begin{rSection2}{Selected Publications (\href{[CONFIG: Google Scholar URL]}{Google Scholar}: [FIXED: N] papers $\vert$ [FIXED: N]+ citations)}
-
-\item [GENERATE: Publication 1 -- most JD-relevant, short format]
-
-\item [GENERATE: Publication 2]
-
-\item [GENERATE: Publication 3]
-
-\item [GENERATE: Publication 4]
-
-\item [GENERATE: Publication 5]
-
-\end{rSection2}
-\vspace{-0.15cm}
-
-%----------------------------------------------------------------------------------------
-%	HONORS & AWARDS — FIXED: Fill with your actual awards
-%----------------------------------------------------------------------------------------
-% Format: \item \textbf{Award}, Granting Body (Year). Brief context.
-% Aim for 1 rendered line each. Adjust count to fit page budget.
-
-\begin{rSection2}{Honors \& Awards}
-\item \textbf{[FIXED: Award]}, [FIXED: Body] ([FIXED: Year]). [FIXED: context].
-\item \textbf{[FIXED: Award]}, [FIXED: Body] ([FIXED: Year]). [FIXED: context].
-\item \textbf{[FIXED: Award]}, [FIXED: Body] ([FIXED: Year]). [FIXED: context].
-\end{rSection2}
-\vspace{-0.1cm}
-
-%----------------------------------------------------------------------------------------
-%	IMMIGRATION — FIXED content, include/exclude per JD
-%   USA JD: keep this block | Non-USA JD: delete (frees ~2 lines)
-%----------------------------------------------------------------------------------------
-
-\begin{center}
-\vspace{0.15cm}
-\textit{[CONFIG: Immigration status line from config.md]}
-\end{center}
+% \begin{rSection2}{Honors \& Awards}
+% \item \textbf{[Award]}, [Granting Body] ([Year]). [Brief context].
+% \end{rSection2}
 
 \end{document}
