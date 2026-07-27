@@ -1,0 +1,23 @@
+## Enablement: Cause & Effect (Sales Enablement Investment Business Case)
+
+- **Role/context:** Built a strategic investment business case for sales enablement at Florence, quantifying the cost of under-resourcing enablement and requesting a dedicated enablement FTE.
+- **Timeframe:** March 2026
+- **What I did:**
+  - Framed enablement as the "connective tissue" of Florence's GTM motion across five pillars: Product (value-based selling for new offerings), Process (GTM consistency across motions), People (guided ramp and BDR development), Systems (CPQ/SF/Gong/AI adoption), and Coaching (FLM and rep development cycle)
+  - Built a full financial model quantifying the annual cost of under-enablement at $2,455,775 across five measured categories, each with an explicit, documented formula and stated assumptions:
+    - Seller Productivity Loss ($960K, 39.1% of total): 25 sellers x 8 hrs/week lost x 48 working weeks x $100/hr fully loaded
+    - Turnover Cost ($750K, 30.5%): 2.5 expected replacements/year x $300K replacement cost (1.5x fully-loaded salary) at a 10% annual turnover rate
+    - Pipeline Impact ($625K, 25.4%): $25M total pipeline x 10% pipeline lost to enablement gaps x 25% win rate
+    - GTM Systems Support Burden ($86.4K, 3.5%): 3 GTM Systems staff x 8 hrs/week absorbed x 48 weeks x $75/hr
+    - Tool Underutilization ($34,375, 1.4%): 25 issued licenses x $1,375 annual cost x 35% productivity-based underutilization rate
+  - Built the ROI case for the ask: one additional enablement FTE at $190K fully-burdened annual cost, against $2.27M net annual benefit, for an 11.9x return
+  - For each of the five enablement pillars, documented specific downstream consequences of under-resourcing across five consistent impact lenses (Process, Adoption, GTM Systems, Human Impact, Finance Impact) — e.g., under-resourced Product enablement leads to deals miscategorized in Salesforce, rep confidence decline, and higher churn from misaligned sales motions
+  - Cited the existing 2025 coaching initiative as internal proof-of-concept evidence that structured coaching investment already demonstrated measurable positive impact, strengthening the case for scaling it
+  - Closed with three concrete investment asks: sustained dedicated enablement headcount (beyond the current one-to-two part-time resource level), a ringfenced/protected enablement budget decoupled from marketing/event discretionary spend, and visible executive sponsorship
+- **Outcome/metrics:**
+  - Quantified $2.46M in annual preventable cost from under-resourced enablement against a fully-costed $190K investment, an 11.9x modeled ROI
+  - Structured a systematic 5-category, 5-consequence-lens framework applied consistently across all five enablement pillars, giving executives a comparable, auditable cost model rather than a qualitative pitch
+- **Skills/tools demonstrated:** Financial/ROI modeling for a headcount investment case, cost-of-inaction quantification, executive business-case writing, sales enablement strategy, cross-functional consequence mapping (process/adoption/systems/people/finance), assumption documentation and defensibility
+- **Resume-ready bullet(s):**
+  - Built a quantified $2.46M cost-of-inaction financial model across five enablement categories (seller productivity, turnover, pipeline impact, systems burden, tool waste) to support an 11.9x ROI business case for a new enablement FTE
+  - Designed a systematic five-pillar, five-consequence-lens framework (Product/Process/People/Systems/Coaching x Process/Adoption/Systems/Human/Finance impact) to make the strategic case for sustained enablement investment auditable and executive-ready

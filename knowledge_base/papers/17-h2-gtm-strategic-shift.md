@@ -1,0 +1,18 @@
+## H2 GTM Strategic Shift (Executive Leadership Review)
+
+- **Role/context:** Authored an executive-level GTM strategy proposal to unify AE, BDR, Marketing, and RevOps around a single ICP narrative and shared operating rhythm, moving Florence from siloed team strategies to one coordinated GTM motion.
+- **Timeframe:** H2 2026
+- **What I did:**
+  - Diagnosed the core problem as a strategy gap masked by tooling progress: technology, process maturity, and data visibility had advanced, but each team (AE, BDR, Marketing) was still running its own thin, disconnected narrative — resulting in truncated top-of-funnel engagement and sales motions starting too late
+  - Designed a "north star" narrative architecture: one ICP story with three sub-segment branches (Pharma sponsors: speed/oversight/audit-readiness; CROs: site network leverage/sponsor visibility; Medical Device: lighter footprint/faster activation), with every touchpoint across every team required to map back to it
+  - Defined team-by-team role shifts to execute the new strategy: AEs move from quota-carriers to "territory generals" running outcomes-led plays; BDRs shift to owning foundational outreach messaging by sub-segment (with AI lifting personalization at scale) and become account-planning co-owners rather than list-workers; Marketing takes ownership of top-of-funnel nurture with problem-first content, replacing a BDR-led nurture motion; RevOps is chartered to own the entire operating ecosystem (cadences, territory maturation, enablement) with cadences graded on bookings impact, not MQL/SAL vanity metrics
+  - Built a five-tier operating rhythm (weekly AE-BDR territory tactics, bi-weekly account plan reviews, monthly Marketing-RevOps signal sync, monthly plan-vs-actual review, quarterly narrative refresh) to make the strategic shift operationally durable rather than a one-time announcement
+  - Defined a five-artifact enablement kit to ship alongside the strategy (diagnostic audit for department gap scoring, KPI dashboard for plan-vs-actual visibility, an AI BDR playbook for personalization at scale, a problem-first content roadmap, and an audience-specific rollout comms plan)
+  - Structured the ask to leadership as three explicit approvals (endorse the ICP narrative bifurcation, re-charter AE/BDR/Marketing scope, fund the RevOps operating-ecosystem expansion) plus a committed 30-day first operating review as the proof point
+- **Outcome/metrics:**
+  - Reframed GTM strategy from "3+ disparate, thin top-of-funnel narratives with no north star" to one ICP narrative bifurcated across three defined sub-segments, adopted as an executive-endorsed strategic shift
+  - Delivered a concrete cadence structure (5 recurring rhythms) intended to operationalize the strategy rather than leave it as a one-time presentation
+- **Skills/tools demonstrated:** Executive-level GTM strategy design, cross-functional org re-chartering, ICP/narrative architecture, operating cadence design, change management, enablement program design, executive business-case structuring (situation-complication-resolution)
+- **Resume-ready bullet(s):**
+  - Authored and secured executive approval for an H2 GTM strategic shift unifying AE, BDR, Marketing, and RevOps around one ICP narrative bifurcated by sub-segment (Pharma, CRO, Medical Device), replacing disconnected team-level strategies with one coordinated motion
+  - Re-chartered AE, BDR, Marketing, and RevOps role scope and designed a five-tier recurring operating cadence to make the strategic shift durable, backed by a five-artifact enablement kit and a committed 30-day operating review

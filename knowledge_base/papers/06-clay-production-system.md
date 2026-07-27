@@ -1,0 +1,21 @@
+## How Clay Works (Production System Documentation)
+
+- **Role/context:** Documented (and by extension, architected/owned) the production Clay system built after the business case was approved — the account/contact enrichment and AI personalization engine running live against Salesforce.
+- **Timeframe:** Documentation dated June 24, 2026 (post-pilot, in production)
+- **What I did:**
+  - Designed a governed, three-gate human-in-the-loop system: RevOps approves account scope, reps individually opt contacts into enrichment, reps individually opt contacts into AI cadence drafting — no step is fully autonomous
+  - Built a daily automated pipeline with three sequential runs (5am account enrichment, 6am contact enrichment, 7am cadence drafting), each depending on the last, delivering a fully drafted outbound kit within ~24 hours of opt-in
+  - Engineered account enrichment against ClinicalTrials.gov's API (3 deterministic calls: ongoing trials, trial locations, recently finished trials) plus AI synthesis into a 6-section portfolio summary and a rubric-based 0-10 priority score (Fit + Timing + Recency)
+  - Designed contact-level identity verification AI gates (confirms an enriched LinkedIn profile actually belongs to the contact before anything is written back) to prevent bad data from reaching Salesforce
+  - Designed waterfall enrichment logic (multiple data providers, first-hit-wins, coalesce-to-preserve-existing-data) for LinkedIn URL, email, and mobile phone fields
+  - Built the "seven-resource outbound kit" generator: 5 sequenced emails (each with a distinct lever/question shape and no meeting ask in emails 1-4), a LinkedIn invite, a cold-call cheat sheet, and an internal QA rationale — with explicit voice rules (no em-dashes, no cliches, curiosity-not-critique framing) to maximize reply rates
+  - Wrote and maintained a full technical reference: exact SOQL input queries, ClinicalTrials.gov API configuration, and a prompt inventory mapping every AI prompt to its table, column, and function
+  - Documented a not-yet-activated create-contact table with a human Slack-approval gate, showing forward design for future expansion
+- **Outcome/metrics:**
+  - Live production system governing enrichment across two Salesforce objects (Account, Contact) and one cadence-drafting table, with Salesforce maintained as the system of record at every step
+  - Reps interact only through Salesforce checkboxes/list views — zero direct tool exposure, minimizing training burden and shadow-IT risk
+  - Every AI-drafted message is reviewed and sent by a human — Clay never sends autonomously
+- **Skills/tools demonstrated:** GTM systems architecture, Salesforce data model design (custom fields, write-back governance), API integration (ClinicalTrials.gov), prompt engineering and AI workflow design, human-in-the-loop system design, technical documentation, cross-functional enablement (RevOps/Sales)
+- **Resume-ready bullet(s):**
+  - Architected and documented a production AI enrichment and personalization system integrating Salesforce, ClinicalTrials.gov, and multiple data-waterfall providers, running fully automated daily on a three-stage pipeline with human approval gates at every stage
+  - Designed identity-verification and write-back governance logic (never overwrite verified data, confirm identity before writing) to make an AI-driven data pipeline safe to run against production CRM
