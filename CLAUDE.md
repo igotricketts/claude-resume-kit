@@ -132,7 +132,7 @@ _Update this section when starting/finishing a JD._
 
 | Session | Status | Next Command |
 |---------|--------|-------------|
-| (none active) | — | — |
+| Roo — Director, Revenue Operations | Resume: DONE | /make-cl output/Roo/session_roo_revops.md |
 
 ---
 
