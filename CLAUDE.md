@@ -133,6 +133,7 @@ _Update this section when starting/finishing a JD._
 | Session | Status | Next Command |
 |---------|--------|-------------|
 | Roo — Director, Revenue Operations | Resume: DONE | /make-cl output/Roo/session_roo_revops.md |
+| eClinical Solutions — Director/VP, RevOps & Commercial Systems | Phase 0: DONE | /make-resume /jds eclinical (resume at Phase 1) |
 
 ---
 
