@@ -67,7 +67,55 @@
 - **"Why them" hook:** The RBQM → Clinical Quality Intelligence transformation plus a first-year CCO era — an execution leader who has already run this exact "translate strategy into a durable operating system" playbook once.
 
 ## Bullet Plan
-_Pending Phase 1._
+
+Note: Any FIXED positions (e.g., internships) are not included in this plan.
+
+### Position 1: Sr. Director, Revenue Operations — Florence Healthcare (14 bullets, 28 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | FL-01 | RevOps strategy establishment, dept ownership, CRO/C-suite alignment | 2L | 2 | Lead bullet — direct match to "Growth Operating Partner to the CCO" |
+| 2 | FL-17 | H2 GTM strategic shift — org re-chartering, 5-tier operating cadence | 2L | 2 | Direct — flagship match to "Growth Orchestration Leadership" |
+| 3 | FL-16 | New CRO onboarding + 12-cadence operating rhythm roadmap | 2L | 2 | Direct — "Growth Operating Rhythm Ownership" + exec partnership |
+| 4 | FL-21 | GTM leadership meeting cadence framework (weekly/monthly/quarterly) | 2L | 2 | Direct — near-verbatim match to JD's own cadence language; elevated above bundle default |
+| 5 | FL-18 | AE-BDR operating model — RACI, CRO-mandated adoption targets | 2L | 2 | Direct — "orchestration...measurement & control" + accountability frameworks |
+| 6 | FL-14 | Recurring Board of Directors RevOps reporting | 2L | 2 | Direct — "Performance Management & Reporting" |
+| 7 | FL-03 | AI roadmap + 11-platform tech stack modernization, exec dashboards | 2L | 2 | Direct — executive KPI dashboards/scorecards |
+| 8 | FL-20 | Sales enablement ROI business case ($2.46M model, 11.9x ROI) | 2L | 2 | Direct — "Organizational Capability & Enablement" |
+| 9 | FL-15 | GTM compensation design & rollout across six roles | 2L | 2 | Direct — execution discipline, ahead-of-schedule delivery |
+| 10 | FL-11 | Sponsor/CRO territory tiering redesign (4,648 accounts) | 2L | 2 | Bridge (HIGH) — enterprise/long-cycle nice-to-have + foundational infrastructure |
+| 11 | FL-06 | Enterprise BDR role redesign — OTE-neutral, 12 reps | 2L | 2 | Bridge (HIGH) — enterprise selling nice-to-have + structural redesign |
+| 12 | FL-04 | BDR turnaround Q1 — rapid diagnosis, $1.7M pipeline error | 2L | 2 | Direct — "builder-operator mindset," execution-obsessed |
+| 13 | FL-02 | Bookings attainment (>120%) + outbound prospecting maturity | 2L | 2 | Direct — "drive results," quantitative proof |
+| 14 | FL-12 | Company-wide ICP rollout, adopted across marketing/sales/BDR | 2L | 2 | Direct — matrixed-org cross-functional adoption evidence |
+
+**Available (o) swaps:** FL-05 (Q2 BDR scaled execution, pairs with FL-04), FL-13 (buyer persona, completes targeting trio), FL-07 (AI business case/Clay), FL-22 (TOF lead-flow diagnostic)
+**Not recommended (x):** FL-08/FL-09/FL-10 (AI production system/governance/expansion — deep technical AI depth, downplayed per framing strategy; this JD is execution/orchestration-focused, not AI-strategy), FL-19 (conference campaign ops — marketing-adjacent, weak match)
+
+### Position 2: Director, Revenue Operations — THREAD (3 bullets, 6 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | TH-01a | GTM-wide operational frameworks across BD/marketing/sales/CS | 2L | 2 | Direct — near-verbatim match to JD's "cross-functional leadership...Sales, Marketing, CS, Partnerships" |
+| 2 | TH-01b | KPI dashboards/forecasting presented to BOD/executive leadership | 2L | 2 | Direct — performance management continuity from career start |
+| 3 | TH-01c | Scaled RevOps team, hired sales ops/marketing ops/systems admin leaders | 2L | 2 | Direct — "Organizational Capability & Enablement" |
+
+*(TH-01 is the position's single consolidated KB achievement, split into 3 sentence-level bullets — consistent with prior sessions.)*
+
+### Position 3: Senior Manager, Marketing — THREAD (1 bullet, 2 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | TM-01 (systems-only) | HubSpot–Salesforce integration as system of record | 2L | 2 | Bridge — systems-of-record framing retained; demand-gen/MQL metric dropped (marketing metrics de-emphasized for this GTM-execution-focused role) |
+
+### Position 4: Marketing Manager — Bio-Optronics (now Advarra) (2 bullets, 4 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | BM-01 | >25% annual CARR growth, >80% marketing-sourced, >500% ROI | 2L | 2 | Bridge — reinforces 13 years unbroken in life sciences SaaS (JD's #1 requirement) |
+| 2 | BM-02 | HubSpot company-wide systems implementation, 3x MQL conversion | 2L | 2 | Bridge (systems angle) — process/systems rigor in a regulated clinical-software company |
+
+**Budget:** 20 variable bullets, 40 rendered lines vs. target ~20-21 bullets (2-page resume) — **PASS**
+
+Excluded per experience-file/provenance guidance: FL-08/FL-09/FL-10 (AI depth, downplayed), FL-19 (event ops, weak match), BM-03 (co-led, hedge-heavy, low relevance), BM-04/BM-05/BR-01/MS-01 (CL-only or pre-management per experience-file notes). FL-05, FL-13, FL-07, FL-22 held as available swaps at user's discretion but not selected due to budget.
+
+**No user focus directives were supplied with the JD** — this plan follows the RevOps bundle's Priority Matrix defaults, with FL-21 elevated above its bundle default (LOW-MEDIUM → recommended) because this JD explicitly names "Growth Operating Rhythm Ownership" as a responsibility, and the AI-adoption arc (FL-07/08/09/10) condensed to a single supporting bullet (FL-03) because this JD is about execution/orchestration rather than AI strategy.
 
 ## Output Files
 - Resume: `output/CluePoints/e2e_cluepoints_vp_resume.tex`
@@ -76,7 +124,7 @@ _Pending Phase 1._
 
 ## Status
 - Phase 0: DONE
-- Phase 1: PENDING
+- Phase 1: DONE (20 bullets confirmed pending user sign-off)
 - Phase 2 Resume:
   - Summary: PENDING
   - Skills: PENDING
