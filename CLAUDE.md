@@ -134,6 +134,7 @@ _Update this section when starting/finishing a JD._
 |---------|--------|-------------|
 | Roo — Director, Revenue Operations | Resume: DONE | /make-cl output/Roo/session_roo_revops.md |
 | eClinical Solutions — Director/VP, RevOps & Commercial Systems | Resume: DONE | /make-cl output/eClinical/session_eclinical_revops.md |
+| CluePoints — VP, Commercial Programs | Resume: DONE | /make-cl output/CluePoints/session_cluepoints_vp.md |
 
 ---
 
