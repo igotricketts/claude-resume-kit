@@ -6,7 +6,8 @@
 - **Company:** Celonis (Process Intelligence / process mining leader; enterprise AI context-layer platform; HQ Munich + New York; pre-IPO)
 - **Bundle:** GTM Strategy (primary) + Revenue Operations (secondary, for FL-01/FL-14/TH-01 planning-ops bridging bullets)
 - **Format:** Resume (2-page, resume.cls) + 1-page cover letter
-- **Salary/Details:** Not in JD. Third-party aggregator estimate is $250K–$275K (unverified). **Location risk:** aggregator copies list the role as on-site in Munich (one Built In copy lists London), and the JD says "Visa sponsorship is not offered." Kyle is based in Holly Springs, NC. Celonis has a Raleigh office (223 S. West St.) about 25 miles away. Confirm on the official Greenhouse posting whether the role can be US-based before applying.
+- **Location (user-confirmed):** Role is US-based; user confirms Holly Springs, NC and Raleigh are effectively the same location. Header: "Holly Springs, NC (Raleigh area)". CL may reference the Raleigh office.
+- **Salary/Details:** Not in JD. Third-party aggregator estimate is $250K–$275K (unverified). **Original location note (resolved):** aggregator copies list the role as on-site in Munich (one Built In copy lists London), and the JD says "Visa sponsorship is not offered." Kyle is based in Holly Springs, NC. Celonis has a Raleigh office (223 S. West St.) about 25 miles away. Confirm on the official Greenhouse posting whether the role can be US-based before applying.
 
 ## JD Analysis
 ### Requirements
@@ -176,6 +177,8 @@ Proposed bold theme: "Multi-Year SaaS Growth \& Sales-Marketing Alignment"
 |---|-----|------------|---------|-------|-----------|
 | R6 | BR-01 + MS-01 | Brand strategy (2015–16) + early campaign/enablement execution (2013–15) | 2L | 2 | Reserve. Timeline completeness only (same pattern as prior resumes) |
 
+**Final (Phase 2):** 29 bullets / 58 lines: all 28 approved bullets + FL-15 split into overhaul + retrospective (see Phase 2 Generation Notes).
+
 **Budget:** 20 core variable bullets (40 rendered lines) vs. Budget Card ~20, a **PASS**. With R1–R8: 28 bullets (56 lines), matching the 28–29 bullets prior resumes needed to fill 2 pages.
 
 **Forced exclusions (provenance):**
@@ -193,10 +196,24 @@ Proposed bold theme: "Multi-Year SaaS Growth \& Sales-Marketing Alignment"
 - **Demoted:** FL-08 (HIGH → x), FL-10 (HIGH → reserve R3), FL-09 (MEDIUM → reserve R8).
 - **Unchanged HIGH:** FL-01, FL-03, FL-06, FL-07, FL-11, FL-12, FL-14, FL-17.
 
+## Phase 2 Generation Notes
+
+All 28 approved bullets (20 core + R1–R8) were generated and compiled. Result: 2 pages, every bullet exactly 2 rendered lines, no overfull boxes. But page 2 had ~3.6 blank lines vs. the <=3 gate. Rather than add an unapproved achievement, the approved FL-15 (comp overhaul) was split per the resume_reference.md sub-theme rebalancing rule into (a) the overhaul/signature-speed bullet and (b) its post-rollout retrospective bullet. Source: extraction ricketts2024_gtm_comp_design.md Key Result 5 + Resume Bullet Seed 2. The split directly answers the JD's "periodic reviews of plan performance … inform next iteration." Final: **29 bullets, 58 rendered lines**, page 2 slack ~1.2 lines.
+
+Wording/accuracy decisions:
+- FL-16 framed as plan reconciliation + capacity modeling "for a new CRO". Never "led the annual planning process". Bottom-up/optimistic/top-down detail comes from the verified extraction.
+- "Utilized" (banned word) replaced with "theoretical vs. actual" capacity; same meaning as the source's "actual utilized capacity".
+- TH-01a uses "a new cross-functional GTM operating model" (source says "new", not "first").
+- -ing clause endings converted to finite verbs on FL-11, FL-17, FL-05, FL-10, FL-22.
+- No Florence revenue/plan figures, no GTM-ratio ownership claim, no Looker.
+- Excel intentionally NOT listed: it is not in the KB/skills taxonomy (user may confirm to add).
+
+Compiled locally with TeX Live (installed in-session, incl. texlive-fonts-extra for fontawesome). Visually verified both pages via rendered PNG: headers fit one line, no orphans, clean page break mid-Florence.
+
 ## Output Files
-- Resume: `output/Celonis/e2e_celonis_gtm_planning_resume.tex`
-- Cover Letter: `output/Celonis/e2e_celonis_gtm_planning_cover_letter.tex`
-- Critique: `output/Celonis/critique_celonis_gtm_planning.md`
+- Resume: `output/Celonis/e2e_celonis_gtm_planning_resume.tex` (+ `resume.cls`; compiled `.pdf` is gitignored)
+- Cover Letter: `output/Celonis/e2e_celonis_gtm_planning_cover_letter.tex` (pending)
+- Critique: `output/Celonis/critique_celonis_gtm_planning.md` (pending)
 
 ## Research Sources (Phase 0)
 - Celonis Context Model + Ikigai Labs: https://www.celonis.com/news/press/celonis-launches-the-context-model-to-eliminate-enterprise-ais-operational-blind-spots-agrees-to-acquire-ai-decision-intelligence-leader-ikigai-labs ; https://www.saasrise.com/deals/celonis-acquires-ikigai-launches-context-model-to-give-ai-agents-operational-intelligence-f68ee2b4-34ce-4f08-91e5-0fa01134d6b3
@@ -207,11 +224,21 @@ Proposed bold theme: "Multi-Year SaaS Growth \& Sales-Marketing Alignment"
 
 ## Status
 - Phase 0: DONE
-- Phase 0 confirmed by user ("proceed"): GTM Strategy primary + RevOps secondary; 2-page resume + 1-page CL; planning-architect framing. Location question (Munich/London on-site vs. US) not yet answered.
-- Phase 1: PROPOSED (20 core + 8 reserve bullets; awaiting user confirmation)
-- Phase 2 Resume: PENDING
+- Phase 0 confirmed by user ("proceed"): GTM Strategy primary + RevOps secondary; 2-page resume + 1-page CL; planning-architect framing. Location: US-based, Holly Springs = Raleigh area (user-confirmed).
+- Phase 1: DONE (20 core + 8 reserve bullets confirmed; user raised no changes)
+- Budget Gate: PASS (20 core bullets vs. Budget Card ~20; reserve R1–R8 pre-approved for Page Fill Gate)
+- Phase 2 Resume:
+  - Summary: DONE (539 chars, 5 lines, last line 83 chars)
+  - Skills: DONE (4-3-3-3, 13 single-line dashes)
+  - Position 1 (Florence, 21 bullets incl. FL-15 split + R1–R4, R7, R8): DONE
+  - Position 2 (THREAD RevOps, 3 bullets): DONE
+  - Position 3 (THREAD Marketing, 1 bullet): DONE
+  - Position 4 (Bio-Optronics MM, 3 bullets incl. R5): DONE
+  - Position 5 (collapsed early career, 1 bullet, R6): DONE
+  - Compile: DONE (2 pages; char-count gate clean; all 2L last lines >= 78; page fill ~1.2 blank lines on p.2; AI-fingerprint scan clean)
+- Resume: DONE
 - Cover Letter: PENDING
 - Critique: PENDING
-- **Next:** User confirms/modifies Phase 1 bullet plan → Budget Gate → Phase 2
+- **Next:** /make-cl output/Celonis/session_celonis_gtm_planning.md
 - **Next CL:** /make-cl output/Celonis/session_celonis_gtm_planning.md
 - **Next Critique:** /critique output/Celonis/session_celonis_gtm_planning.md
