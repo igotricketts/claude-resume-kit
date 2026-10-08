@@ -2,7 +2,7 @@
 
 ## Summary Stats
 - Total unique skills: 83 (table rows; the pre-AI-update count read 52 but the tables held 65)
-- Achievements analyzed: 37 (across 6 positions, 42 source extractions)
+- Achievements analyzed: 39 (across 6 positions, 42 source extractions)
 - Top methods: RevOps/GTM strategy design, executive business-case writing, Salesforce/CRM systems architecture, compensation plan design, AI/data governance, AI GTM systems with reconciliation controls (Claude skills on Snowflake and Salesforce)
 
 ## Categories
