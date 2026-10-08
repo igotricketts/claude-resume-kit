@@ -530,13 +530,13 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 **Context:** Generic cold outreach was ignored, AI-written copy was recognizable, and reps under volume pressure reached for unverified claims. Built a system that writes three distinct strategies per prospect, grounded in verified facts and voice rules.
 
 **Bullet variants:**
-- **1L:** Built an AI outbound copy system that writes three distinct, fact-grounded email strategies per prospect.
-- **2L:** Built an AI outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect from CRM and ClinicalTrials.gov data, governed by a verified claims library and peer-voice rules.
-- **3L:** Built an AI outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect from CRM and ClinicalTrials.gov data, governed by a verified claims library and peer-voice rules. Every prospect fact must trace to supplied data.
+- **1L:** Built an AI outbound copy system writing three fact-grounded strategies per prospect, lifting reply rates 30%.
+- **2L:** Built an AI outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect, governed by a verified claims library and peer-voice rules, lifting reply rates 30% in 60 days.
+- **3L:** Built an AI outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect from CRM and ClinicalTrials.gov data, governed by a verified claims library and voice rules that ban invented numbers, lifting reply rates 30% within 60 days.
 
 **Key skills:** Outbound messaging strategy, claims governance, prompt and workflow design, sales development enablement
 **ATS keywords:** outbound, sales development, personalization, messaging, email outreach, LinkedIn, AI copywriting
-**Reframing notes:** MEDIUM for GTM Strategy and Sales Strategy; LOW for RevOps and Sales Ops unless the JD stresses SDR tooling. **Reply-rate metric PENDING (config.md):** omit it until the user confirms. Once confirmed, swap the 2L ending to "...lifting reply rates 30% within 60 days" (relative lift) or "...reaching 30% reply rates within 60 days" (absolute rate), and re-count characters. Separate system from FL-08's Clay outbound kit; avoid using both on one resume unless the JD weights outbound heavily.
+**Reframing notes:** MEDIUM for GTM Strategy and Sales Strategy; LOW for RevOps and Sales Ops unless the JD stresses SDR tooling. The 30% is a relative lift over baseline: write "lifting reply rates 30%," never "30% reply rates" (config.md). No sample size or baseline values. Separate system from FL-08's Clay outbound kit; avoid using both on one resume unless the JD weights outbound heavily.
 
 ---
 
@@ -555,7 +555,7 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 **Key skills:** AI adoption and change management, sales enablement, knowledge management, GTM tooling, Python
 **ATS keywords:** AI adoption, generative AI, Claude, sales enablement, GTM tooling, change management, process standardization
-**Reframing notes:** HIGH for GTM Strategy (AI adoption at scale), RevOps (AI enablement), and Sales Ops (tooling adoption); MEDIUM for Sales Strategy. Adoption is ">85% across SADR and AE teams"; do not extend it to leadership or name a rep count or quarterly objective. Do not repeat FL-27's $1M as a library result in the same document. Executive communications toolkit is a component: say "codified" or "applied" for the Nasralla frameworks, never "created." Pairs with FL-07 to FL-10 (Clay) as a two-platform AI-adoption record.
+**Reframing notes:** HIGH for GTM Strategy (AI adoption at scale), RevOps (AI enablement), and Sales Ops (tooling adoption); MEDIUM for Sales Strategy. Adoption is ">85% across SADR and AE teams"; do not extend it to leadership or name a rep count or quarterly objective. Do not repeat FL-27's $1M or FL-28's 30% reply-rate lift as library results in the same document. Executive communications toolkit is a component: say "codified" or "applied" for the Nasralla frameworks, never "created." Pairs with FL-07 to FL-10 (Clay) as a two-platform AI-adoption record.
 
 ---
 

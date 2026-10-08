@@ -59,4 +59,4 @@ _Note: File 24 (bio-optronics-growth-stats.md) was folded into ricketts2016_bioo
 
 _Source: knowledge_base/papers/00-core-resume.md, split per position on 2026-07-28; remaining 25 papers (01-23, 25-26) extracted in batch on 2026-07-28._
 
-_Source: knowledge_base/papers/27-37 (AI GTM systems portfolio write-up), extracted in batch on 2026-10-08. Several source metrics were bracketed placeholders; confirmed values and do-not-use items are in config.md Provenance Flags (AI GTM Systems). The outbound reply-rate metric is pending confirmation. The source's "VP of Revenue Operations & Outbound Sales" title is incorrect; the title remains Sr. Director, Revenue Operations._
+_Source: knowledge_base/papers/27-37 (AI GTM systems portfolio write-up), extracted in batch on 2026-10-08. Several source metrics were bracketed placeholders; confirmed values and do-not-use items are in config.md Provenance Flags (AI GTM Systems). The outbound reply-rate metric was confirmed on 2026-10-08 as a 30% relative lift over baseline. The source's "VP of Revenue Operations & Outbound Sales" title is incorrect; the title remains Sr. Director, Revenue Operations._

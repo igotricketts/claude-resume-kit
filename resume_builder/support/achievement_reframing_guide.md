@@ -417,12 +417,12 @@ The role-type table shows how to emphasize/de-emphasize for each target audience
 | Role Type | Emphasis | Lead Verb | Framing Angle |
 |-----------|----------|-----------|----------------|
 | Revenue Operations | LOW | Built | Omit unless JD stresses SDR tooling |
-| GTM Strategy | MEDIUM | Built | AI-assisted outbound with claims governance |
+| GTM Strategy | MEDIUM | Built | AI-assisted outbound with claims governance; reply rates up 30% |
 | Sales Operations | LOW | Built | Condense or omit |
 | Sales Strategy | MEDIUM | Built | Messaging strategy grounded in trial data |
 
-**Overclaiming warning:** Reply-rate metric PENDING (absolute rate vs. relative lift): omit it until confirmed. Separate system from FL-08's Clay outbound kit.
-**First-pass checklist:** [x] Verb matches author role [ ] Numbers from paper (reply rate pending) [x] Status matches provenance
+**Overclaiming warning:** "Lifted reply rates 30%" is a relative lift over baseline; never write "30% reply rates." No sample size or baseline values. Separate system from FL-08's Clay outbound kit.
+**First-pass checklist:** [x] Verb matches author role [x] Numbers from paper (user-confirmed, config.md) [x] Status matches provenance
 
 ---
 

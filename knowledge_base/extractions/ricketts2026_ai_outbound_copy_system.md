@@ -18,7 +18,7 @@
 3. Grounding rules: every prospect fact traces to supplied intel; thin intel produces shorter, plainer copy; inconsistent figures get the conservative framing or are dropped; never references whether trial results were posted
 4. Tightened guidelines after testing on live trial portfolio data (assume no prior relationship, one signal per message)
 5. Receives buyer persona tags from the account intent framework and trial footprints from sponsor trial portfolio research
-6. Reply rate: user reports "30% reply rates" (source: within 60 days). **PENDING:** unconfirmed whether this is an absolute reply rate or a relative lift (see config.md)
+6. Lifted reply rates 30% within 60 days, a relative lift over the pre-system baseline (user-confirmed 2026-10-08; 60-day window per source)
 
 ## Novelty Claims
 - None claimed in source
@@ -31,14 +31,12 @@
 
 ## Provenance Notes
 - **Publication status:** N/A — internal system
-- **Safe to claim:** Full-ownership verbs (Built, Designed)
+- **Safe to claim:** Full-ownership verbs (Built, Designed); "lifted reply rates 30% within 60 days"
 - **Needs hedging:** None
 - **Do NOT claim:**
-  - Any reply-rate figure until the user confirms absolute rate vs. relative lift
+  - "30% reply rate(s)" or any absolute-rate framing: the 30% is a relative lift over baseline
   - Sample size, baseline, or rep time savings (source placeholders unconfirmed)
 
 ## Resume Bullet Seeds
-1. Built an outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect from enriched CRM and ClinicalTrials.gov data, governed by a verified claims library and voice rules.
+1. Built an outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect from enriched CRM and ClinicalTrials.gov data, governed by a verified claims library and voice rules, lifting reply rates 30% within 60 days.
 2. Wrote voice and grounding rules for AI-generated outreach (no invented numbers, one approved proof point per email, every prospect fact traced to supplied data) so SADR copy stays accurate and reads as written by a peer.
-
-_Metric to append once confirmed:_ "...lifting reply rates 30% within 60 days" (if relative lift) or "...reaching 30% reply rates within 60 days" (if absolute rate).

@@ -50,7 +50,7 @@ Source papers 27–37 contain bracketed placeholders (e.g., `[N]`, `[X% to Y%]`)
 | Account intent framework pipeline | Verified | "influenced $1M in ARR pipeline" (within three months, per source). Pipeline, not closed ARR; influenced, not sourced. Never "$1M+", never "sourced" or "generated $1M ARR" |
 | MQL disposition readout | Verified | "cut MQL pickup time 25%" (time to first touch on marketing-sourced MQLs). Replaces the source's "24-hour SLA adherence" claim; never frame as SLA adherence or percentage points. No duration claim (source "[period]" unconfirmed) |
 | MQL readout analysis time | Verified (stated in source) | "2–3 hours per week each in RevOps and Marketing." Overlap with the 3 hours/week reporting figure is unconfirmed: cite one or the other in a document, never both |
-| Outbound copy system reply rate | **PENDING — do not use** | User gave "30% reply rates"; unconfirmed whether that is an absolute rate or a relative lift. Omit the metric until confirmed |
+| Outbound copy system reply rate | Verified | "lifted reply rates 30% within 60 days": a relative lift over the pre-system baseline (user-confirmed 2026-10-08; 60-day window per source). Never "30% reply rate(s)", which reads as an absolute rate. Sample size and baseline values are unconfirmed; do not cite them |
 | GTM skill library adoption | Verified | ">85% adoption across SADR and AE teams." Replaces source "[N] reps" |
 | GTM skill library size | Verified (stated in source) | "10 Claude skills" |
 | Account intent framework criteria | Verified (stated in source) | "8 public buying-signal criteria" |
