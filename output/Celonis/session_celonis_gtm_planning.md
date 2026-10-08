@@ -113,7 +113,85 @@
 - **"Why them" hook:** Pre-IPO Celonis needs a plan the market can trust, and its product is itself a statement that operational clarity beats intuition. If the role can be US-based, mention the Raleigh office (Kyle is in Holly Springs, NC).
 
 ## Bullet Plan
-_(Phase 1, pending)_
+
+Note: Any FIXED positions (e.g., internships) are not included in this plan. All variable bullets are Resume-2L (189–205 rendered chars, target ~200).
+
+**Budget calibration:** The Quick Budget Card says ~20 variable bullets. But all three prior 2-page resumes for this profile (Roo, eClinical, CluePoints) needed 28–29 bullets (~56–58 rendered lines) to pass the Page Fill Gate, because this profile has no Publications/Honors sections. So this plan sets **20 core bullets (Budget Card) + 8 ranked page-fill reserve bullets (R1–R8)**, approved upfront. Reserve bullets get cut in reverse order (R8 first) if page 2 overflows.
+
+### Position 1: Sr. Director, Revenue Operations — Florence Healthcare (14 core + 6 reserve)
+Proposed bold theme: "Annual GTM Planning, Territory \& Org Design"
+
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | FL-16 | Reconciled 3 competing FY25 plans (bottom-up, optimistic, top-down) into one base-case plan; sales capacity model (theoretical vs. utilized) across 4 teams | 2L | 2 | **Lead.** Direct: JD's #1 responsibility, "bottom-up and top-down plan" (bottom-up/top-down detail from verified extraction). Elevated MEDIUM → HIGH. Do NOT say "led annual planning process" |
+| 2 | FL-11 | Territory model redesign: ad hoc 3-tier (9% Tier 3 coverage) → 6-tier, 3-segment across 4,648 accounts; ownership reassigned | 2L | 2 | Direct: territory & segment strategy, account assignment |
+| 3 | FL-06 | Enterprise BDR role/scorecard/comp redesign for 12 reps (<30% vs. 88% benchmark), OTE-neutral, no added headcount | 2L | 2 | Direct: role & org design, coverage model, unit economics |
+| 4 | FL-17 | H2 GTM strategic shift: exec-approved; AE/BDR/Marketing/RevOps re-chartered around one sub-segmented ICP narrative | 2L | 2 | Direct: GTM strategy + cross-functional alignment + plan cascade |
+| 5 | FL-14 | Recurring Board plan-vs-actual narrative: segment plan attainment, pipeline coverage ratios, go-get gap modeling, risk | 2L | 2 | Direct: plan vs. actual, variance reporting (coverage ratios/go-get from verified extraction) |
+| 6 | FL-01 | Established RevOps strategy w/ CRO & C-suite (GTM process, forecasting, governance); built/led team of eight | 2L | 2 | Direct: scope/seniority, strategic advisor to leadership |
+| 7 | FL-15 | Ground-up comp overhaul across 6 roles; quota/rate/OTE single source of truth; 100% signatures 3 days early, 2 months faster YoY | 2L | 2 | Direct: quota/OTE planning cascade + planning system. Elevated MEDIUM → HIGH |
+| 8 | FL-18 | AE-BDR coverage/operating model (~20% at "Strategic" standard → 4-cadence model, CRO-mandated adoption) | 2L | 2 | Direct: coverage model / team structure. Nearest honest evidence for AE:SDR dynamics |
+| 9 | FL-12 | First company-wide ICP, MEDDPICC-mapped, adopted across marketing, sales, BDR | 2L | 2 | Direct: segmentation strategy, cross-functional adoption |
+| 10 | FL-20 | $2.46M cost-of-inaction model → 11.9x ROI case for enablement headcount | 2L | 2 | Direct: custom modeling, resource allocation trade-offs. Elevated LOW → core |
+| 11 | FL-07 | $5.7M pipeline shortfall root-caused; AI platform business case; 6.8x–16.7x ROI scenarios | 2L | 2 | Direct: scenario modeling + AI fluency for an AI-platform employer |
+| 12 | FL-02 | >120% bookings goals multi-year (in partnership w/ GTM leadership); +75% outbound prospecting maturity in six months | 2L | 2 | Direct: attainment proof / New Logo pipeline bridge. Keep "in partnership" |
+| 13 | FL-03 | AI roadmap + 11+ platform GTM stack modernization; exec dashboards/scorecards for BOD & C-team | 2L | 2 | Direct: planning modernization + dashboards |
+| 14 | FL-04 | BDR org takeover mid-quarter: $1.7M unattributed pipeline error; Q1 SAL attainment 126% (350% Strategic Accounts) | 2L | 2 | Direct: analytical rigor; Strategic Accounts bridges to Global Accounts |
+| R1 | FL-05 | Q2 scaled execution: outbound +266%, opps to quote +67%; isolated one-time deal effect from trend | 2L | 2 | Reserve. Plan-performance review / variance discipline |
+| R2 | FL-13 | Buyer-persona & buying-committee framework | 2L | 2 | Reserve. Completes segmentation trio (FL-11/12/13) |
+| R3 | FL-10 | 20-initiative, 3-workstream AI expansion roadmap | 2L | 2 | Reserve. Program management, parallel initiatives (Q10) |
+| R4 | FL-21 | GTM leadership cadence framework (weekly/monthly/quarterly forecast & pipeline reviews) | 2L | 2 | Reserve. Planning systems / operating rhythm |
+| R7 | FL-22 | TOF lead-lifecycle diagnostic, five process breakdowns | 2L | 2 | Reserve. Process improvement |
+| R8 | FL-09 | AI/data governance framework (GDPR/CCPA/CPRA) | 2L | 2 | Reserve (cut first). Downplayed per framing |
+
+**Not recommended (x):** FL-08 (Clay architecture; too technical for a planning role), FL-19 (event campaign ops; weak match)
+
+### Position 2: Director, Revenue Operations — THREAD (3 core)
+Proposed bold theme: "GTM Operating Frameworks, Forecasting \& FP\&A"
+
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | TH-01a | GTM-wide operational frameworks across BD, marketing, sales, CS | 2L | 2 | Direct: cross-functional (Sales/Marketing/CS) alignment |
+| 2 | TH-01b | KPI dashboards + forecasting models for ARR/bookings; GTM FP&A (forecasting, budgeting, revenue modeling); presented to Board | 2L | 2 | Direct: plan modeling + reporting lineage (FP&A verified in extraction) |
+| 3 | TH-01c | Scaled RevOps team by hiring sales ops, marketing ops, systems admin leaders | 2L | 2 | Direct: org design / team structure |
+
+### Position 3: Senior Manager, Marketing — THREAD (1 core)
+Proposed bold theme: "Demand Generation \& Full-Funnel Attribution"
+
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | TM-01 | >25% MQL growth in three months (Biopharma/CRO); HubSpot–Salesforce full-funnel attribution | 2L | 2 | Bridge: pipeline generation + systems; keeps timeline continuous |
+
+### Position 4: Marketing Manager — Bio-Optronics (now Advarra) (2 core + 1 reserve)
+Proposed bold theme: "Multi-Year SaaS Growth \& Sales-Marketing Alignment"
+
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | BM-01 | Team of five; >25% annual SaaS CARR growth, >80% marketing-sourced, >500% ROI, on/under budget 5 yrs | 2L | 2 | Bridge: sustained growth + budget discipline (growth vs. profitability) |
+| 2 | BM-02 | MQL-to-opportunity conversion 3x (~5% → ~14%) via sales-marketing alignment + HubSpot process | 2L | 2 | Bridge: funnel conversion / process design |
+| R5 | BM-01b | Tripled yearly pipeline generation (~$4M → ~$12M, 2015–2019), 85–90% marketing-sourced; database 5x | 2L | 2 | Reserve. Pipeline-generation scale proof |
+
+### Position 5: Brand Manager & Marketing Specialist — Bio-Optronics (collapsed early career; reserve only)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| R6 | BR-01 + MS-01 | Brand strategy (2015–16) + early campaign/enablement execution (2013–15) | 2L | 2 | Reserve. Timeline completeness only (same pattern as prior resumes) |
+
+**Budget:** 20 core variable bullets (40 rendered lines) vs. Budget Card ~20, a **PASS**. With R1–R8: 28 bullets (56 lines), matching the 28–29 bullets prior resumes needed to fill 2 pages.
+
+**Forced exclusions (provenance):**
+- No Florence absolute revenue/plan figures ($10M/$14M/$10.8M from raw paper; scale contrast + not in experience file)
+- No "defined GTM ratios" or AE:SDR ratio claims
+- No Looker
+- No quantified payout reduction (config KB correction)
+- BM-03 omitted (co-led UX; not relevant)
+- BM-04/BM-05 omitted (CL-only per reframing guide)
+- No Publications section (config Output Rules)
+- FL-02 keeps "in partnership with GTM leadership"
+
+**Focus directive impact vs. GTM Strategy Priority Matrix:** No user directives. Phase 0 framing changes:
+- **Elevated:** FL-16 (MEDIUM → lead), FL-15 (MEDIUM → core), FL-18/FL-02/FL-04 (MEDIUM → core), FL-20 (LOW → core), TH-01 ×3 (MEDIUM → core).
+- **Demoted:** FL-08 (HIGH → x), FL-10 (HIGH → reserve R3), FL-09 (MEDIUM → reserve R8).
+- **Unchanged HIGH:** FL-01, FL-03, FL-06, FL-07, FL-11, FL-12, FL-14, FL-17.
 
 ## Output Files
 - Resume: `output/Celonis/e2e_celonis_gtm_planning_resume.tex`
@@ -129,10 +207,11 @@ _(Phase 1, pending)_
 
 ## Status
 - Phase 0: DONE
-- Phase 1: PENDING
+- Phase 0 confirmed by user ("proceed"): GTM Strategy primary + RevOps secondary; 2-page resume + 1-page CL; planning-architect framing. Location question (Munich/London on-site vs. US) not yet answered.
+- Phase 1: PROPOSED (20 core + 8 reserve bullets; awaiting user confirmation)
 - Phase 2 Resume: PENDING
 - Cover Letter: PENDING
 - Critique: PENDING
-- **Next:** Confirm Phase 0 (bundle, format, framing, location), then Phase 1 bullet planning
+- **Next:** User confirms/modifies Phase 1 bullet plan → Budget Gate → Phase 2
 - **Next CL:** /make-cl output/Celonis/session_celonis_gtm_planning.md
 - **Next Critique:** /critique output/Celonis/session_celonis_gtm_planning.md
