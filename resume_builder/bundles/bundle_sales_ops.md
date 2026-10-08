@@ -12,9 +12,11 @@
 ### Priority Matrix
 | Priority | Achievement IDs | Rationale |
 |----------|----------------|-----------|
-| HIGH | FL-02, FL-04, FL-05, FL-11, FL-15, FL-18 | Direct sales-ops execution: pipeline diagnosis, territory design, comp mechanics, RACI/operating-model design |
-| MEDIUM | FL-01, FL-03, FL-06, FL-07, FL-12, FL-16, FL-20, FL-22, TH-01 | Supporting strategic/systems context that sales ops leaders are expected to understand |
-| LOW | FL-08, FL-09, FL-10, FL-13, FL-14, FL-17, FL-19, FL-21, TM-01, BM-*, BR-01, MS-01 | Too strategic/marketing-adjacent for a sales-ops-titled role — omit or condense heavily |
+| HIGH | FL-02, FL-04, FL-05, FL-11, FL-15, FL-18, FL-25, FL-29 | Direct sales-ops execution: pipeline diagnosis, territory design, comp mechanics, RACI/operating-model design, speed-to-lead analytics, sales tooling adoption |
+| MEDIUM | FL-01, FL-03, FL-06, FL-07, FL-12, FL-16, FL-20, FL-22, FL-23, FL-24, FL-26, FL-27, FL-30, TH-01 | Supporting strategic/systems context that sales ops leaders are expected to understand. Promote FL-24 (forecast inspection) to HIGH for forecasting-heavy JDs and FL-30 (CRM integrity) for JDs stressing CRM hygiene |
+| LOW | FL-08, FL-09, FL-10, FL-13, FL-14, FL-17, FL-19, FL-21, FL-28, TM-01, BM-*, BR-01, MS-01 | Too strategic/marketing-adjacent for a sales-ops-titled role — omit or condense heavily |
+
+**AI GTM systems pairing rule:** Use FL-23 with at most one of FL-24/FL-25/FL-26. FL-23's "3 hours per week" and FL-25's "2–3 hours per week" never appear in the same document.
 
 ---
 
@@ -36,15 +38,18 @@
 | FL-11 | Territory tiering | Territory ownership reassignment | 4,648 accounts re-tiered |
 | FL-15 | Comp design | Comp/incentive mechanics depth | 100% signature, 3 days early |
 | FL-18 | AE-BDR model | RACI/cadence/enforcement mechanics | ~80% of pairs below standard → fixed |
+| FL-25 | MQL disposition readout | Speed to lead and disposition discipline for the SADR team | MQL pickup time cut 25% |
+| FL-29 | Claude skill library | Sales tooling standardization and adoption (not AI architecture) | >85% adoption across SADR and AE teams |
+| FL-24 | Forecast movement readout | Forecast inspection: every category change tied to a named deal | Reconciled to the cent |
 
 ---
 
 ## S4: Skills Guide
 
-**Bold tools (resume):** Salesforce, Gong, QuotaPath, 6Sense
+**Bold tools (resume):** Salesforce, Gong, QuotaPath, 6Sense, Claude
 **Must-include skills:** Pipeline attribution analysis, sales compensation plan design, RACI/operating-model design, territory/account segmentation
-**Nice-to-have:** Sales capacity modeling, sales enablement ROI modeling
-**Omit:** AI governance/production-system architecture detail (keep Clay bullets at 1L or omit), board-reporting narrative depth, GTM org re-chartering strategy
+**Nice-to-have:** Sales capacity modeling, sales enablement ROI modeling, forecast inspection, speed-to-lead analytics, CRM data integrity governance
+**Omit:** AI governance/production-system architecture detail (keep Clay bullets at 1L or omit; frame FL-29 as tooling adoption, not architecture), board-reporting narrative depth, GTM org re-chartering strategy
 
 ---
 
@@ -54,4 +59,4 @@
 **Opening hook pattern:** Lead with the BDR turnaround story (FL-04/FL-05) — mid-quarter inheritance, rapid diagnosis, QoQ proof.
 **Key narrative thread:** Diagnose with data → fix the process → build durable mechanics with enforcement (comp gating, RACI, five-gate meeting acceptance) so the fix sticks.
 **"Why them" angle:** Research whether the target company has known sales-process pain points (territory disputes, AE-BDR friction, comp complaints) and mirror the specific fix pattern from FL-11, FL-15, or FL-18.
-**Avoid:** Don't lead with AI/Clay strategy or company-wide GTM re-chartering — too senior/strategic a frame for a sales-ops-titled role; mention briefly only if the JD signals technical/systems depth is valued.
+**Avoid:** Don't lead with AI/Clay strategy or company-wide GTM re-chartering — too senior/strategic a frame for a sales-ops-titled role; mention briefly only if the JD signals technical/systems depth is valued. Exception: FL-29 framed as sales tooling adoption (>85% of SADR and AE reps) fits a middle paragraph.

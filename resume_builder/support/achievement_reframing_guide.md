@@ -41,8 +41,8 @@ The role-type table shows how to emphasize/de-emphasize for each target audience
 
 | Role Type | Emphasis | Lead Verb | Framing Angle |
 |-----------|----------|-----------|----------------|
-| Revenue Operations | HIGH | Modernized | Tech stack ownership |
-| GTM Strategy | HIGH | Designed | AI roadmap as innovation strategy |
+| Revenue Operations | MEDIUM | Modernized | Tech stack ownership (AI evidence now led by FL-23/FL-29) |
+| GTM Strategy | MEDIUM | Designed | AI roadmap as innovation strategy (FL-23/FL-29 lead) |
 | Sales Operations | MEDIUM | Modernized | Tooling reduces rep friction |
 | Sales Strategy | LOW | Designed | Condense or omit if space-constrained |
 
@@ -146,10 +146,10 @@ The role-type table shows how to emphasize/de-emphasize for each target audience
 
 | Role Type | Emphasis | Lead Verb | Framing Angle |
 |-----------|----------|-----------|----------------|
-| Revenue Operations | MEDIUM | Expanded | Roadmap prioritization |
-| GTM Strategy | HIGH | Expanded | Enterprise-wide scaling strategy |
+| Revenue Operations | LOW | Expanded | Omit unless space allows (FL-29 shows scaling with a result) |
+| GTM Strategy | MEDIUM | Expanded | Enterprise-wide scaling strategy (FL-29 leads) |
 | Sales Operations | LOW | Expanded | Omit unless space allows |
-| Sales Strategy | MEDIUM | Directed | Multi-workstream strategy |
+| Sales Strategy | LOW | Directed | Omit (FL-29 replaces as AI-adoption proof) |
 
 **Overclaiming warning:** None — sole lead of exploration/roadmap.
 **First-pass checklist:** [x] Verb matches author role [x] Numbers from paper [x] Status matches provenance

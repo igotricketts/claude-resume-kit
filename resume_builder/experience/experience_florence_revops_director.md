@@ -61,7 +61,7 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 **Key skills:** AI strategy, systems architecture, executive reporting, tech stack management
 **ATS keywords:** AI roadmap, Snowflake, Salesforce, HubSpot, Gong, Tableau, executive dashboards
-**Reframing notes:** HIGH for GTM Strategy (AI angle); MEDIUM for Sales Ops (tech stack angle).
+**Reframing notes:** MEDIUM for RevOps and GTM Strategy (FL-23/FL-29 now carry the AI evidence with harder numbers; keep FL-03 for tech stack ownership); MEDIUM for Sales Ops (tech stack angle).
 
 ---
 
@@ -194,7 +194,7 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 **Key skills:** Roadmap prioritization, cross-functional program design, AI strategy
 **ATS keywords:** roadmap planning, cross-functional strategy, AI expansion, program sequencing
-**Reframing notes:** MEDIUM — supporting evidence of scaling ability; pairs well with FL-07/08/09 as a complete AI-adoption arc.
+**Reframing notes:** MEDIUM for GTM Strategy, LOW elsewhere — supporting evidence of scaling ability; pairs well with FL-07/08/09 as a complete AI-adoption arc, but FL-29 (>85% adoption) is the stronger scaling proof on a tight budget.
 
 ---
 
