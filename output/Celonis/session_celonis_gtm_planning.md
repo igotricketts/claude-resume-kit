@@ -206,7 +206,7 @@ Wording/accuracy decisions:
 - TH-01a uses "a new cross-functional GTM operating model" (source says "new", not "first").
 - -ing clause endings converted to finite verbs on FL-11, FL-17, FL-05, FL-10, FL-22.
 - No Florence revenue/plan figures, no GTM-ratio ownership claim, no Looker.
-- Excel intentionally NOT listed: it is not in the KB/skills taxonomy (user may confirm to add).
+- Excel initially omitted (not in KB). User then confirmed Excel; added in Edit 1 (see Edit History).
 
 Compiled locally with TeX Live (installed in-session, incl. texlive-fonts-extra for fontawesome). Visually verified both pages via rendered PNG: headers fit one line, no orphans, clean page break mid-Florence.
 
@@ -221,6 +221,12 @@ Compiled locally with TeX Live (installed in-session, incl. texlive-fonts-extra 
 - Role location/level (aggregator): https://www.growthtalent.org/jobs/product-marketing/celonis/head-of-gtm-strategy-and-planning-celonis ; https://builtinlondon.uk/job/head-gtm-strategy-and-planning/11248286
 - RevOps org signals: https://jobs.accel.com/companies/celonis/jobs/91480518-sales-strategy-operations-manager ; https://builtin.com/job/vp-north-america-revenue-strategy-and-operations/7677236 ; https://builtin.com/job/vp-sales-regulated-industries/3177510
 - Offices: https://builtin.com/company/celonis/offices ; https://craft.co/celonis
+
+## Edit History
+### Edit 1 (2026-10-08): Add Excel to Systems & Tools
+- Changes: Rewrote Systems & Tools dash 1 to "**Excel** and **Tableau** for custom planning models and dashboards, plus **Snowflake** and **Salesforce** (SFDC/CPQ)" (101 rendered chars, 31 bold, effective limit 104). Excel leads, matching the JD's tools order (Excel, Tableau, Looker). Dropped "executive dashboards, and scorecards" wording from this line; dashboards are still covered in FL-03/FL-14 bullets.
+- Source: user request ("add Excel into the tools line"). User-confirmed skill, also added to skills_taxonomy.md.
+- Verification: recompiled; 2 pages; 13 single-line skill dashes; no overfull boxes; page fill unchanged (~1.2 blank lines on p.2).
 
 ## Status
 - Phase 0: DONE

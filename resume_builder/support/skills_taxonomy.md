@@ -81,6 +81,7 @@
 | Gong | Proficient | FL-01, FL-04, FL-18, FL-19 | MEDIUM |
 | Tableau | Proficient | FL-01, FL-14 | MEDIUM |
 | Snowflake | Proficient | FL-01 | MEDIUM |
+| Excel (custom planning, financial & scenario models) | Proficient | User-confirmed (Celonis session, 2026-10); underlies FL-07, FL-16, FL-20 models | MEDIUM |
 | QuotaPath | Proficient | FL-15 | MEDIUM |
 | 6Sense | Proficient | FL-01, FL-18, FL-19 | MEDIUM |
 | Gainsight | Familiar | FL-01 | LOW |
