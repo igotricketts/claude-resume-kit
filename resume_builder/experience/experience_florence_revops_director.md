@@ -479,7 +479,7 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 **Key skills:** Funnel and cohort analytics, benchmarking, marketing-sales alignment, data quality management, SQL
 **ATS keywords:** MQL, lead management, speed to lead, SLA, funnel analytics, cohort analysis, Demand Gen, SDR/BDR, Salesforce, Snowflake
-**Reframing notes:** HIGH for RevOps when the JD mentions funnel, lead management, or marketing-sales alignment; MEDIUM otherwise. Metric is pickup time (time to first touch); never frame it as SLA adherence or percentage points, and claim no duration. Alternate result when FL-23's 3 hours/week is not in the same document: "saving 2–3 hours per week each in RevOps and Marketing." Cite the "no contact" finding on its own; no action or result from it is confirmed. Pairs with FL-22 (lead flow diagnostic) as a diagnose-then-instrument story.
+**Reframing notes:** HIGH for RevOps and Sales Ops (funnel analytics, speed to lead, marketing-sales alignment); MEDIUM for GTM Strategy and Sales Strategy. Metric is pickup time (time to first touch); never frame it as SLA adherence or percentage points, and claim no duration. Alternate result when FL-23's 3 hours/week is not in the same document: "saving 2–3 hours per week each in RevOps and Marketing." Cite the "no contact" finding on its own; no action or result from it is confirmed. Pairs with FL-22 (lead flow diagnostic) as a diagnose-then-instrument story.
 
 ---
 
@@ -536,7 +536,7 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 **Key skills:** Outbound messaging strategy, claims governance, prompt and workflow design, sales development enablement
 **ATS keywords:** outbound, sales development, personalization, messaging, email outreach, LinkedIn, AI copywriting
-**Reframing notes:** MEDIUM for GTM Strategy and Sales Strategy; LOW-MEDIUM for RevOps and Sales Ops. **Reply-rate metric PENDING (config.md):** omit it until the user confirms. Once confirmed, swap the 2L ending to "...lifting reply rates 30% within 60 days" (relative lift) or "...reaching 30% reply rates within 60 days" (absolute rate), and re-count characters. Separate system from FL-08's Clay outbound kit; avoid using both on one resume unless the JD weights outbound heavily.
+**Reframing notes:** MEDIUM for GTM Strategy and Sales Strategy; LOW for RevOps and Sales Ops unless the JD stresses SDR tooling. **Reply-rate metric PENDING (config.md):** omit it until the user confirms. Once confirmed, swap the 2L ending to "...lifting reply rates 30% within 60 days" (relative lift) or "...reaching 30% reply rates within 60 days" (absolute rate), and re-count characters. Separate system from FL-08's Clay outbound kit; avoid using both on one resume unless the JD weights outbound heavily.
 
 ---
 

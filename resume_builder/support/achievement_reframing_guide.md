@@ -336,6 +336,126 @@ The role-type table shows how to emphasize/de-emphasize for each target audience
 
 ---
 
+### FL-23: AI Executive Reporting System (Weekly Readouts)
+**Significance:** Proof that AI-generated reporting can be trusted at the executive level, because it reconciles its own numbers before it publishes.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | HIGH | Built | Reporting automation with trust controls; 3 hours/week saved |
+| GTM Strategy | HIGH | Built | AI adoption with governance built in |
+| Sales Operations | MEDIUM | Automated | Weekly reporting cadence automated end to end |
+| Sales Strategy | MEDIUM | Built | Decision-ready readouts for C-suite and sales managers |
+
+**Overclaiming warning:** Built on the data team's Snowflake analyst layer: never claim the warehouse layer or dbt marts. No board or investor audience (that is FL-14). Use "3 hours per week" only, and never alongside FL-25's 2–3 hours/week in one document.
+**First-pass checklist:** [x] Verb matches author role [x] Numbers from paper (user-confirmed, config.md) [x] Status matches provenance
+
+---
+
+### FL-24: Forecast Movement Readout
+**Significance:** Forecast-inspection depth: every dollar of weekly category movement tied to a named deal and cause.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | MEDIUM (HIGH if JD stresses forecasting) | Automated | Deal-level forecast attribution, reconciled to the cent |
+| GTM Strategy | LOW | Automated | Fold into FL-23 |
+| Sales Operations | MEDIUM (HIGH if JD stresses forecasting) | Automated | Forecast inspection and pipeline coverage process |
+| Sales Strategy | LOW | Automated | Fold into FL-23 |
+
+**Overclaiming warning:** No time-savings figure of its own. Data layer hedge as FL-23.
+**First-pass checklist:** [x] Verb matches author role [x] Numbers from paper [x] Status matches provenance
+
+---
+
+### FL-25: MQL Disposition Readout
+**Significance:** Data that changed how two teams work together: one benchmark for Marketing and SADR, with a measured speed-to-lead gain.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | HIGH | Designed | Funnel analytics and marketing-sales alignment; pickup time cut 25% |
+| GTM Strategy | MEDIUM | Designed | Shared metrics as a cross-team alignment tool |
+| Sales Operations | HIGH | Designed | Speed to lead and lead disposition discipline |
+| Sales Strategy | MEDIUM | Designed | Owner-tagged decisions for Demand Gen and SADR |
+
+**Overclaiming warning:** Metric is "cut MQL pickup time 25%": never SLA adherence or percentage points, and no duration claim. The "no contact" finding stands alone; no action or result from it is confirmed.
+**First-pass checklist:** [x] Verb matches author role [x] Numbers from paper (user-confirmed, config.md) [x] Status matches provenance
+
+---
+
+### FL-26: Rep Call Coaching Readout (Gong)
+**Significance:** Data skepticism in practice: caught a source-system artifact before it misrepresented a rep to their manager.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | LOW | Automated | Fold into FL-23; interview story |
+| GTM Strategy | LOW | Automated | Omit; interview story only |
+| Sales Operations | MEDIUM | Automated | Gong coaching analytics for frontline managers |
+| Sales Strategy | LOW | Automated | Omit |
+
+**Overclaiming warning:** The 75% is what the error would have understated for one rep, not an activity gain. Browser route covers about five reps; do not imply org-wide scale.
+**First-pass checklist:** [x] Verb matches author role [x] Numbers from paper [x] Status matches provenance
+
+---
+
+### FL-27: Account Intent Framework (Public Buying Signals)
+**Significance:** The "when to reach out" layer on top of tiering, ICP, and personas, with measured pipeline influence.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | MEDIUM (HIGH for health tech/life sciences JDs) | Developed | Targeting infrastructure that influenced $1M in ARR pipeline |
+| GTM Strategy | HIGH | Developed | Signal-based territory prioritization for strategic sellers |
+| Sales Operations | MEDIUM | Built | Account prioritization process for sellers |
+| Sales Strategy | HIGH | Developed | Prioritization that influenced $1M in ARR pipeline in 3 months |
+
+**Overclaiming warning:** "Influenced $1M in ARR pipeline": never "sourced," "$1M+," or closed ARR. The 2–6 month new-leader window is a working heuristic, not a finding.
+**First-pass checklist:** [x] Verb matches author role [x] Numbers from paper (user-confirmed, config.md) [x] Status matches provenance
+
+---
+
+### FL-28: AI Outbound Copy System
+**Significance:** AI outreach that stays accurate and does not read as machine-written, through claims governance for sales development.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | LOW | Built | Omit unless JD stresses SDR tooling |
+| GTM Strategy | MEDIUM | Built | AI-assisted outbound with claims governance |
+| Sales Operations | LOW | Built | Condense or omit |
+| Sales Strategy | MEDIUM | Built | Messaging strategy grounded in trial data |
+
+**Overclaiming warning:** Reply-rate metric PENDING (absolute rate vs. relative lift): omit it until confirmed. Separate system from FL-08's Clay outbound kit.
+**First-pass checklist:** [x] Verb matches author role [ ] Numbers from paper (reply rate pending) [x] Status matches provenance
+
+---
+
+### FL-29: GTM Claude Skill Library & AI Adoption
+**Significance:** AI adoption at team scale: >85% adoption with one standard for research, claims, and voice.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | HIGH | Created | AI enablement for GTM teams |
+| GTM Strategy | HIGH | Created | AI adoption at scale with consistent quality |
+| Sales Operations | HIGH | Deployed | Tooling adoption and process standardization |
+| Sales Strategy | MEDIUM | Created | Consistent rep execution across SADR and AE |
+
+**Overclaiming warning:** ">85% adoption across SADR and AE teams" only; no leadership adoption claim, rep count, or quarterly objective. Nate Nasralla's frameworks and Florence's design system are "codified," never "created." Do not repeat FL-27's $1M as a library result.
+**First-pass checklist:** [x] Verb matches author role [x] Numbers from paper (user-confirmed, config.md) [x] Status matches provenance
+
+---
+
+### FL-30: AI-Assisted CRM Integrity Guardrails
+**Significance:** CRM data governance extended to AI-assisted data entry.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | MEDIUM | Embedded | CRM data integrity under AI-assisted entry |
+| GTM Strategy | LOW | Embedded | Omit |
+| Sales Operations | MEDIUM | Embedded | CRM hygiene, stage gates, validation rules |
+| Sales Strategy | LOW | Embedded | Omit |
+
+**Overclaiming warning:** No confirmed metric (validation-failure reduction and user counts are unconfirmed).
+**First-pass checklist:** [x] Verb matches author role [x] No numbers to verify [x] Status matches provenance
+
+---
+
 ### TH-01: GTM-Wide Operational Framework & FP&A Leadership (THREAD)
 **Significance:** First department-head RevOps title — precursor to Florence's deeper work.
 
