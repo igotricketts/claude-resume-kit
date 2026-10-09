@@ -43,7 +43,20 @@
 | 29 | ricketts2026_gtm_maturity_narrative.md | Worked Narrative: The Strategic Lens Behind Maturing a Complex GTM Organization | RevOps Director | sole author (narrative synthesis) | verified |
 | 30 | ricketts2017_published_article_data_warehousing.md | Doing More with Clinical Trial Business Data: Adopt a Data Warehouse | Marketing Manager | sole author | published |
 | 31 | ricketts2020_acrp_press_mention.md | ACRP Feature on Bio-Optronics COVID-19 Benchmark Survey | Marketing Manager | spokesperson (not author) | published (third-party) |
+| 32 | ricketts2026_ai_gtm_systems_narrative.md | Worked Narrative: AI-Driven GTM Systems (Reporting and Prospecting Loops) | RevOps Director | sole author (narrative synthesis) | verified |
+| 33 | ricketts2026_ai_exec_reporting_system.md | Executive Reporting System (AI-Driven Weekly Readouts) | RevOps Director | sole builder (on data team's Snowflake layer) | verified |
+| 34 | ricketts2026_ai_account_intent_framework.md | Account Intent Framework (8 Public Buying-Signal Criteria) | RevOps Director | sole builder | verified |
+| 35 | ricketts2026_ai_mql_disposition_readout.md | MQL Disposition Readout (Weekly Cohort Readout) | RevOps Director | sole builder (on data team's Snowflake layer) | verified |
+| 36 | ricketts2026_ai_outbound_copy_system.md | Outbound Copy System (Three-Option AI Outreach) | RevOps Director | sole builder | verified |
+| 37 | ricketts2026_ai_gtm_skill_library.md | GTM Skill Library (10 Claude Skills) | RevOps Director | sole creator | verified |
+| 38 | ricketts2026_ai_forecast_movement_readout.md | Forecast Movement Readout | RevOps Director | sole builder (on data team's Snowflake layer) | verified |
+| 39 | ricketts2026_ai_rep_call_readout.md | Rep Call Readout (Gong Call Analytics) | RevOps Director | sole builder | verified |
+| 40 | ricketts2026_ai_crm_integrity_guardrails.md | CRM Integrity Guardrails (AI-Assisted Salesforce) | RevOps Director | sole builder | verified |
+| 41 | ricketts2026_ai_sponsor_trial_portfolio.md | Sponsor Trial Portfolio Research (ClinicalTrials.gov) | RevOps Director | sole builder | verified |
+| 42 | ricketts2026_ai_exec_communications.md | Executive Communications Toolkit | RevOps Director | sole builder (codified third-party frameworks) | verified |
 
 _Note: File 24 (bio-optronics-growth-stats.md) was folded into ricketts2016_biooptronics_marketing_manager.md rather than extracted separately, per user direction (overlapping content with the existing Marketing Manager position extraction)._
 
 _Source: knowledge_base/papers/00-core-resume.md, split per position on 2026-07-28; remaining 25 papers (01-23, 25-26) extracted in batch on 2026-07-28._
+
+_Source: knowledge_base/papers/27-37 (AI GTM systems portfolio write-up), extracted in batch on 2026-10-08. Several source metrics were bracketed placeholders; confirmed values and do-not-use items are in config.md Provenance Flags (AI GTM Systems). The outbound reply-rate metric was confirmed on 2026-10-08 as a 30% relative lift over baseline. The source's "VP of Revenue Operations & Outbound Sales" title is incorrect; the title remains Sr. Director, Revenue Operations._

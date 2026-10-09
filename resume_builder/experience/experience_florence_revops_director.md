@@ -2,9 +2,9 @@
 ## Nov 2022 – Present
 
 ### Cross-Position Section
-Florence is where Kyle's career arc from marketing-led growth (Bio-Optronics, THREAD) converges with full GTM systems ownership: he runs RevOps as the operating backbone for AE, BDR, and Marketing simultaneously, and increasingly as the org's AI-adoption lead (Clay enrichment/personalization platform, from business case through governed production system to a 20-initiative expansion roadmap). The throughline across every project below is the same discipline — diagnose with data, name the structural gap honestly, design a durable operating system (not a one-time fix), and build in accountability — applied at every altitude from a single BDR's pipeline attribution to company-wide GTM strategy re-chartering.
+Florence is where Kyle's career arc from marketing-led growth (Bio-Optronics, THREAD) converges with full GTM systems ownership: he runs RevOps as the operating backbone for AE, BDR, and Marketing simultaneously, and increasingly as the org's AI-adoption lead (Clay enrichment/personalization platform, from business case through governed production system to a 20-initiative expansion roadmap; then a 10-skill Claude library for SADR, AE, and leadership teams, including weekly executive readouts with reconciliation gates and a public buying-signal intent framework). The throughline across every project below is the same discipline — diagnose with data, name the structural gap honestly, design a durable operating system (not a one-time fix), and build in accountability — applied at every altitude from a single BDR's pipeline attribution to company-wide GTM strategy re-chartering.
 
-For cover letters: this is the strongest position for RevOps/GTM Strategy targeting — lead with AI/Clay work for "innovation"-framed roles, GTM targeting infrastructure (tiering/ICP/personas) for "0-to-1 build" framed roles, and the BDR turnaround + comp/enablement work for "operational leadership" framed roles.
+For cover letters: this is the strongest position for RevOps/GTM Strategy targeting — lead with AI/Clay work (FL-07 to FL-10) or the Claude-based GTM systems (FL-23 to FL-30, "trust as a design requirement") for "innovation"-framed roles, GTM targeting infrastructure (tiering/ICP/personas) for "0-to-1 build" framed roles, and the BDR turnaround + comp/enablement work for "operational leadership" framed roles.
 
 ---
 
@@ -61,7 +61,7 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 **Key skills:** AI strategy, systems architecture, executive reporting, tech stack management
 **ATS keywords:** AI roadmap, Snowflake, Salesforce, HubSpot, Gong, Tableau, executive dashboards
-**Reframing notes:** HIGH for GTM Strategy (AI angle); MEDIUM for Sales Ops (tech stack angle).
+**Reframing notes:** MEDIUM for RevOps and GTM Strategy (FL-23/FL-29 now carry the AI evidence with harder numbers; keep FL-03 for tech stack ownership); MEDIUM for Sales Ops (tech stack angle).
 
 ---
 
@@ -194,7 +194,7 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 **Key skills:** Roadmap prioritization, cross-functional program design, AI strategy
 **ATS keywords:** roadmap planning, cross-functional strategy, AI expansion, program sequencing
-**Reframing notes:** MEDIUM — supporting evidence of scaling ability; pairs well with FL-07/08/09 as a complete AI-adoption arc.
+**Reframing notes:** MEDIUM for GTM Strategy, LOW elsewhere — supporting evidence of scaling ability; pairs well with FL-07/08/09 as a complete AI-adoption arc, but FL-29 (>85% adoption) is the stronger scaling proof on a tight budget.
 
 ---
 
@@ -426,8 +426,161 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 ---
 
+### Achievement FL-23: AI Executive Reporting System (Weekly Readouts)
+**Source:** ricketts2026_ai_exec_reporting_system.md
+**Paper:** internal (portfolio write-up, papers/28)
+**User's role:** sole builder (on the data team's shared Snowflake analyst layer)
+**Status:** internal, live in production
+
+**Context:** Weekly leadership reporting was assembled by hand from disparate pulls, and figures drifted between audiences. Built three AI readouts that reconcile their own numbers before they publish.
+
+**Bullet variants:**
+- **1L:** Built an AI executive reporting system on Snowflake and Claude for weekly readouts, saving 3 hours per week.
+- **2L:** Built an AI reporting system on Snowflake and Claude delivering weekly forecast, MQL, and rep call readouts to C-suite and sales managers, saving 3 hours weekly; reconciliation gates block any variance.
+- **3L:** Built an AI executive reporting system on Snowflake and Claude that delivers weekly forecast, MQL disposition, and rep call readouts to C-suite leaders and frontline sales managers, saving 3 hours per week. Reconciliation gates halt publishing on any data variance.
+
+**Key skills:** Executive reporting automation, data reconciliation and governance, SQL on dbt-modeled marts, AI workflow design, report scheduling and delivery
+**ATS keywords:** executive reporting, Snowflake, SQL, dbt, forecasting, data governance, reporting automation, AI, Claude, Slack
+**Reframing notes:** HIGH for RevOps (reporting rigor with trust controls) and GTM Strategy (AI angle); MEDIUM for Sales Ops and Sales Strategy. This is the umbrella for FL-24, FL-25, and FL-26: pair it with at most one of them, chosen by JD (forecasting → FL-24, funnel/marketing alignment → FL-25). Distinct from FL-14: FL-14 is the board narrative, FL-23 is weekly operating readouts; never claim board or investor delivery here. Never cite this 3 hours/week alongside FL-25's 2–3 hours/week in one document. Say "built on" Snowflake, never that you built the warehouse layer or marts.
+
+---
+
+### Achievement FL-24: Forecast Movement Readout
+**Source:** ricketts2026_ai_forecast_movement_readout.md
+**Paper:** internal (portfolio write-up, papers/33)
+**User's role:** sole builder (on the data team's shared Snowflake analyst layer)
+**Status:** internal, live in production (scheduled Mondays 7am ET)
+
+**Context:** Forecast reviews stalled when nobody could say why a category moved. Automated a readout that attributes every dollar of weekly category movement to a named deal and cause.
+
+**Bullet variants:**
+- **1L:** Automated a weekly forecast readout that traces every category change to named deals, reconciled to the cent.
+- **2L:** Automated a Monday forecast movement readout that traces every week-over-week category change to named deals and causes (pushes, pull-ins, re-scopes, record splits), reconciled to the cent.
+- **3L:** Automated a Monday forecast movement readout that traces every week-over-week category change to named deals and causes (pushes, pull-ins, re-scopes, record splits), reconciled to the cent. Added repeat-pusher close-date history and next-quarter coverage bands.
+
+**Key skills:** Forecast analysis and inspection, pipeline coverage modeling, deal movement attribution, SQL snapshot analysis
+**ATS keywords:** forecasting, forecast accuracy, pipeline coverage, Commit, Best Case, deal inspection, Snowflake, SQL
+**Reframing notes:** HIGH for RevOps and Sales Ops when the JD stresses forecasting or pipeline inspection; otherwise fold into FL-23. No time-savings figure of its own (the 3 hours/week belongs to FL-23). Interview hook: repeat-pusher history surfaces deals on their third or fourth push.
+
+---
+
+### Achievement FL-25: MQL Disposition Readout
+**Source:** ricketts2026_ai_mql_disposition_readout.md
+**Paper:** internal (portfolio write-up, papers/30)
+**User's role:** sole builder (on the data team's shared Snowflake analyst layer)
+**Status:** internal, live (weekly)
+
+**Context:** Demand Gen and the SADR team read MQL performance from separate reports that disagreed. Built one weekly cohort readout with a shared date basis, benchmark, and maturity window, reconciled against raw CRM history every run.
+
+**Bullet variants:**
+- **1L:** Designed a weekly MQL disposition readout for Demand Gen and SADR leadership, cutting MQL pickup time 25%.
+- **2L:** Designed a weekly MQL disposition readout for Demand Gen and SADR leadership with an 11-week cohort benchmark, a fixed 7-day maturity window, and owner-tagged actions, cutting MQL pickup time 25%.
+- **3L:** Designed a weekly MQL disposition readout for Demand Gen and SADR leadership with an 11-week cohort benchmark and fixed 7-day maturity window, cutting MQL pickup time 25%. Split lost leads by whether they were worked, exposing "no contact" as the top loss reason.
+
+**Key skills:** Funnel and cohort analytics, benchmarking, marketing-sales alignment, data quality management, SQL
+**ATS keywords:** MQL, lead management, speed to lead, SLA, funnel analytics, cohort analysis, Demand Gen, SDR/BDR, Salesforce, Snowflake
+**Reframing notes:** HIGH for RevOps and Sales Ops (funnel analytics, speed to lead, marketing-sales alignment); MEDIUM for GTM Strategy and Sales Strategy. Metric is pickup time (time to first touch); never frame it as SLA adherence or percentage points, and claim no duration. Alternate result when FL-23's 3 hours/week is not in the same document: "saving 2–3 hours per week each in RevOps and Marketing." Cite the "no contact" finding on its own; no action or result from it is confirmed. Pairs with FL-22 (lead flow diagnostic) as a diagnose-then-instrument story.
+
+---
+
+### Achievement FL-26: Rep Call Coaching Readout (Gong)
+**Source:** ricketts2026_ai_rep_call_readout.md
+**Paper:** internal (portfolio write-up, papers/34)
+**User's role:** sole builder
+**Status:** internal, live (weekly)
+
+**Context:** Frontline managers needed coaching material from a week of SADR calls, not a call log. Built a readout that classifies every 1:1 call and surfaces cross-call patterns, and caught a Gong data artifact before it misrepresented a rep.
+
+**Bullet variants:**
+- **1L:** Automated Gong readouts for SADR coaching, catching an error that would have understated a rep's activity 75%.
+- **2L:** Automated a weekly Gong call readout for SADR coaching that classifies every 1:1 call and flags cross-call patterns, catching a classification error that would have understated one rep's activity by 75%.
+- **3L:** Automated a weekly Gong call readout for SADR coaching that classifies every 1:1 call and surfaces cross-call patterns, catching a classification error that would have understated one rep's activity by 75%. Added manager approval before any readout reaches Slack.
+
+**Key skills:** Sales coaching analytics, call classification, browser automation, data validation
+**ATS keywords:** Gong, conversation intelligence, sales coaching, call analytics, SDR/BDR performance
+**Reframing notes:** MEDIUM for Sales Ops (coaching analytics, Gong); LOW for RevOps, GTM Strategy, and Sales Strategy unless the JD stresses coaching. Strong interview story about distrusting a source system's numbers. Scales to about five reps by browser automation; do not imply org-wide coverage.
+
+---
+
+### Achievement FL-27: Account Intent Framework (Public Buying Signals)
+**Source:** ricketts2026_ai_account_intent_framework.md, ricketts2026_ai_sponsor_trial_portfolio.md
+**Paper:** internal (portfolio write-up, papers/29 and 36)
+**User's role:** sole builder
+**Status:** internal, live
+
+**Context:** Clinical trial software purchases follow public events scattered across FDA databases, careers pages, filings, and trial registries, and reps researched them inconsistently or not at all. Defined and automated 8 buying-signal criteria with suppression rules so strategic sellers could prioritize territories.
+
+**Bullet variants:**
+- **1L:** Developed an 8-criterion account intent framework from public buying signals, influencing $1M in ARR pipeline.
+- **2L:** Developed an account intent framework of 8 public buying signals (FDA actions, clinical hiring, leadership changes, funding, CRO shifts) with suppression rules, influencing $1M in ARR pipeline in 3 months.
+- **3L:** Developed an account intent framework of 8 public buying signals (FDA actions, clinical hiring, leadership changes, funding, CRO shifts) with suppression rules, influencing $1M in ARR pipeline in 3 months. Validated each signal on live accounts before codifying it.
+
+**Key skills:** Signal-based prospecting, territory prioritization, research methodology and evidence standards, AI orchestration, Python automation, clinical operations domain knowledge
+**ATS keywords:** intent data, buying signals, account prioritization, territory planning, pipeline generation, ABM, ClinicalTrials.gov, FDA, life sciences
+**Reframing notes:** HIGH for GTM Strategy and Sales Strategy (pipeline influence, territory prioritization); HIGH for RevOps in health tech or life sciences JDs; MEDIUM for Sales Ops. Metric framing is fixed: "influenced $1M in ARR pipeline," never "sourced," "$1M+," or closed ARR. Includes the sponsor trial portfolio research workflow (ClinicalTrials.gov site footprint profiling) as a component; use it in a 3L or CL when the JD is life sciences-specific. Sits naturally after FL-11/12/13 (tiering, ICP, personas): those decide who to target, FL-27 decides when.
+
+---
+
+### Achievement FL-28: AI Outbound Copy System
+**Source:** ricketts2026_ai_outbound_copy_system.md
+**Paper:** internal (portfolio write-up, papers/31)
+**User's role:** sole builder
+**Status:** internal, live
+
+**Context:** Generic cold outreach was ignored, AI-written copy was recognizable, and reps under volume pressure reached for unverified claims. Built a system that writes three distinct strategies per prospect, grounded in verified facts and voice rules.
+
+**Bullet variants:**
+- **1L:** Built an AI outbound copy system writing three fact-grounded strategies per prospect, lifting reply rates 30%.
+- **2L:** Built an AI outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect, governed by a verified claims library and peer-voice rules, lifting reply rates 30% in 60 days.
+- **3L:** Built an AI outbound copy system that writes three distinct cold email or LinkedIn strategies per prospect from CRM and ClinicalTrials.gov data, governed by a verified claims library and voice rules that ban invented numbers, lifting reply rates 30% within 60 days.
+
+**Key skills:** Outbound messaging strategy, claims governance, prompt and workflow design, sales development enablement
+**ATS keywords:** outbound, sales development, personalization, messaging, email outreach, LinkedIn, AI copywriting
+**Reframing notes:** MEDIUM for GTM Strategy and Sales Strategy; LOW for RevOps and Sales Ops unless the JD stresses SDR tooling. The 30% is a relative lift over baseline: write "lifting reply rates 30%," never "30% reply rates" (config.md). No sample size or baseline values. Separate system from FL-08's Clay outbound kit; avoid using both on one resume unless the JD weights outbound heavily.
+
+---
+
+### Achievement FL-29: GTM Claude Skill Library & AI Adoption
+**Source:** ricketts2026_ai_gtm_skill_library.md, ricketts2026_ai_exec_communications.md
+**Paper:** internal (portfolio write-up, papers/32 and 37)
+**User's role:** sole creator (executive communications skill codifies Nate Nasralla's frameworks and Florence's design system)
+**Status:** internal, deployed
+
+**Context:** Reps each prompted AI their own way, so output quality depended on who asked. Encoded the team's research methods, approved claims, CRM rules, and house style once in a library of 10 Claude skills.
+
+**Bullet variants:**
+- **1L:** Built and deployed a 10-skill Claude library for sales teams, reaching >85% adoption across SADR and AE reps.
+- **2L:** Created and deployed a library of 10 Claude skills (account intent research, trial portfolio analysis, outbound copy, CRM guardrails, executive readouts), reaching >85% adoption across SADR and AE teams.
+- **3L:** Created and deployed a library of 10 Claude skills (account intent research, trial portfolio analysis, outbound copy, CRM guardrails, executive readouts), reaching >85% adoption across SADR and AE teams. Encoded one research standard and claims library.
+
+**Key skills:** AI adoption and change management, sales enablement, knowledge management, GTM tooling, Python
+**ATS keywords:** AI adoption, generative AI, Claude, sales enablement, GTM tooling, change management, process standardization
+**Reframing notes:** HIGH for GTM Strategy (AI adoption at scale), RevOps (AI enablement), and Sales Ops (tooling adoption); MEDIUM for Sales Strategy. Adoption is ">85% across SADR and AE teams"; do not extend it to leadership or name a rep count or quarterly objective. Do not repeat FL-27's $1M or FL-28's 30% reply-rate lift as library results in the same document. Executive communications toolkit is a component: say "codified" or "applied" for the Nasralla frameworks, never "created." Pairs with FL-07 to FL-10 (Clay) as a two-platform AI-adoption record.
+
+---
+
+### Achievement FL-30: AI-Assisted CRM Integrity Guardrails
+**Source:** ricketts2026_ai_crm_integrity_guardrails.md
+**Paper:** internal (portfolio write-up, papers/35)
+**User's role:** sole builder
+**Status:** internal, live
+
+**Context:** Once GTM users began updating Salesforce through Claude, records were created with required fields blank and stages advanced without their entry criteria. Wrote the org's CRM rules into a skill that governs every AI-assisted Salesforce interaction.
+
+**Bullet variants:**
+- **1L:** Embedded CRM integrity rules (required fields, stage gates, record links) in AI-assisted Salesforce workflows.
+- **2L:** Embedded CRM integrity rules into AI-assisted Salesforce workflows (required-field and stage-gate checks, deal-type recommendations, direct record links, audit sheets for bulk changes) for all GTM users.
+- **3L:** Embedded CRM integrity rules into AI-assisted Salesforce workflows (required-field and stage-gate checks, deal-type recommendations, direct record links, audit sheets for bulk changes) for all GTM users, so required fields are captured when records are created.
+
+**Key skills:** CRM data governance, Salesforce administration, stage-gate design, data quality
+**ATS keywords:** Salesforce, CRM hygiene, data integrity, data governance, validation rules, stage gates
+**Reframing notes:** MEDIUM for Sales Ops and RevOps when the JD stresses CRM hygiene or data governance; LOW for GTM Strategy and Sales Strategy. No confirmed metric (validation-failure reduction and user counts are unconfirmed). Pairs with FL-09 (Clay governance) as responsible-AI evidence.
+
+---
+
 _Narrative-only source files (not separate achievements — use for cover letter/interview framing):_
 - ricketts2026_bdr_turnaround_narrative.md — connects FL-04, FL-05, FL-06 into a "rapid assessment → structural redesign" leadership story
 - ricketts2026_clay_full_narrative.md — connects FL-07, FL-08, FL-09, FL-10 into a "prove it, govern it, scale it" AI-adoption story
 - ricketts2026_icp_segmentation_narrative.md — connects FL-11, FL-12, FL-13 into a "account, fit, people" GTM-infrastructure story
 - ricketts2026_gtm_maturity_narrative.md — connects FL-16, FL-17, FL-18, FL-19, FL-20, FL-21, FL-22 into a "GTM maturity lens" story
+- ricketts2026_ai_gtm_systems_narrative.md — connects FL-23 through FL-30 into a "reporting loop + prospecting loop" story built on five principles (validate before codifying, one source of truth, reconcile before publishing, state what the data cannot say, write for the decision)
