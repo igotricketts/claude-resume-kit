@@ -135,10 +135,14 @@ _Update this section when starting/finishing a JD._
 | Roo — Director, Revenue Operations | Resume: DONE | /make-cl output/Roo/session_roo_revops.md |
 | eClinical Solutions — Director/VP, RevOps & Commercial Systems | Resume: DONE | /make-cl output/eClinical/session_eclinical_revops.md |
 | CluePoints — VP, Commercial Programs | Resume: DONE | /make-cl output/CluePoints/session_cluepoints_vp.md |
-| Smarsh — Sr. Director, Global Sales & CS Operations | Phase 0: DONE (awaiting confirmation) | /make-resume JDs/Smarsh (resumes at Phase 1) |
+| Smarsh — Sr. Director, Global Sales & CS Operations | Phase 1: plan presented (awaiting confirmation); no CL | /make-resume JDs/Smarsh (resumes at Budget Gate) |
 
 ---
 
 ## KB Corrections Log
 
 _See `config.md` for user-specific corrections. Add verified errors here as you find them._
+
+| Correction | Details |
+|-----------|---------|
+| RevOps tenure (2026-10-23) | RevOps titles start Jun 2021. The CluePoints resume summary's "13+ years in life sciences SaaS revenue operations" overstates this; correct it on any reuse. Use "13 years in B2B SaaS go-to-market, 5+ leading Revenue Operations" |

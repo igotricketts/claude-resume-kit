@@ -456,6 +456,36 @@ The role-type table shows how to emphasize/de-emphasize for each target audience
 
 ---
 
+### FL-31: Partnership & Channel Sales Division Planning and Onboarding
+**Significance:** The only channel/partner evidence in the KB: covers "direct and channel" JD language.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | MEDIUM (HIGH if JD names channel) | Planned | Channel division stood up alongside direct sales |
+| GTM Strategy | MEDIUM | Planned | Route-to-market expansion |
+| Sales Operations | MEDIUM (HIGH if JD names channel) | Planned | Direct-and-channel coverage, partner comp on the planning agenda |
+| Sales Strategy | MEDIUM | Planned | Channel as a growth lever |
+
+**Overclaiming warning:** User-verified, no metrics. "Planned and onboarded," never "built and ran" the channel business. Partner commissions were an FY26 planning question, not a delivered plan.
+**First-pass checklist:** [x] Verb matches author role [x] No numbers to verify [x] Status matches provenance
+
+---
+
+### FL-32: Customer Health Score Kickoff & Retention Operating Cadence
+**Significance:** The core CS Ops evidence: health scoring (kicked off), Gainsight, and renewal/churn/NRR-GRR reviews.
+
+| Role Type | Emphasis | Lead Verb | Framing Angle |
+|-----------|----------|-----------|----------------|
+| Revenue Operations | MEDIUM (HIGH if JD names CS Ops/retention) | Led | Post-sale operations inside the RevOps remit |
+| GTM Strategy | LOW | Led | Omit unless JD names retention |
+| Sales Operations | MEDIUM (HIGH if JD names CS Ops) | Led | CS Ops: health score, renewals, NRR/GRR |
+| Sales Strategy | LOW | Led | Omit unless JD names retention |
+
+**Overclaiming warning:** Health score was kicked off, not completed. Renewal/churn reviews are shared ("we"). No NRR/GRR figures or retention results.
+**First-pass checklist:** [x] Verb matches author role [x] No numbers to verify [x] Status matches provenance
+
+---
+
 ### TH-01: GTM-Wide Operational Framework & FP&A Leadership (THREAD)
 **Significance:** First department-head RevOps title — precursor to Florence's deeper work.
 

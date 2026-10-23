@@ -578,6 +578,44 @@ For cover letters: this is the strongest position for RevOps/GTM Strategy target
 
 ---
 
+### Achievement FL-31: Partnership & Channel Sales Division Planning and Onboarding
+**Source:** knowledge_base/notes/2026-10-23_user_confirmed_channel_cs_global.md (user statement); ricketts2024_gtm_comp_design.md (partner-commission questions in FY26 planning)
+**Paper:** internal
+**User's role:** planned and onboarded the division (user statement)
+**Status:** internal, user-verified 2026-10-23 (config.md); no metrics
+
+**Context:** Planned and onboarded Florence's partnership/channel sales division alongside the direct sales teams. Separately, FY26 comp planning raised how to compensate partner-involved deals and partner commission structures.
+
+**Bullet variants:**
+- **1L:** Planned and onboarded Florence Healthcare's partnership and channel sales division alongside direct sales.
+- **2L:** Planned and onboarded Florence Healthcare's partnership and channel sales division alongside the direct sales teams, putting partner-involved deals and partner commissions on the FY26 comp planning agenda.
+- **3L:** (No further detail in source. Do not expand beyond the 2L variant.)
+
+**Key skills:** Channel/partner sales planning, sales org onboarding, partner compensation planning
+**ATS keywords:** channel sales, partner sales, partnerships, direct and channel, sales planning, onboarding
+**Reframing notes:** HIGH for any JD that asks for "direct and channel" or partner ops; LOW otherwise. No channel revenue, partner counts, or program results exist. The FY26 partner-commission item was an open planning question, not a delivered plan: never say "designed partner comp."
+
+---
+
+### Achievement FL-32: Customer Health Score Kickoff & Retention Operating Cadence
+**Source:** knowledge_base/notes/2026-10-23_user_confirmed_channel_cs_global.md (user statement); ricketts2022_florence_revops_director.md (Gainsight in stack)
+**Paper:** internal
+**User's role:** led the RevOps team that kicked off the health score build; renewal/churn/NRR-GRR reviews are shared ("we") within cadences Kyle runs
+**Status:** internal, user-verified 2026-10-23 (config.md); health score in build (kicked off), no metrics
+
+**Context:** Led the RevOps team that kicked off a customer health score build alongside the Gainsight deployment. Renewal forecasting, churn communication, and NRR/GRR risk mitigation are reviewed in Florence's regular operating cadences.
+
+**Bullet variants:**
+- **1L:** Led the RevOps team that kicked off a customer health score build alongside Florence's Gainsight deployment.
+- **2L:** Led the RevOps team that kicked off a customer health score build alongside the Gainsight deployment, and reviewed renewal forecasts, churn risk, and NRR/GRR mitigation in recurring operating cadences.
+- **3L:** (No further detail in source. Do not expand beyond the 2L variant.)
+
+**Key skills:** Customer Success operations, health scoring, renewal forecasting review, retention (NRR/GRR) governance, Gainsight
+**ATS keywords:** Customer Success Operations, health score, Gainsight, renewals, churn, NRR, GRR, retention
+**Reframing notes:** HIGH for JDs with CS Ops, renewals, or retention scope; LOW otherwise. The health score was kicked off, not completed: never "built," "launched," or "deployed" a health score. No NRR/GRR figures, churn reduction, or renewal forecast model exists. Pairs with FL-15 (AM expansion comp, NRR treatment), FL-16 (AM capacity), and FL-30 (renewal deal-type rules) as the post-sale story.
+
+---
+
 _Narrative-only source files (not separate achievements — use for cover letter/interview framing):_
 - ricketts2026_bdr_turnaround_narrative.md — connects FL-04, FL-05, FL-06 into a "rapid assessment → structural redesign" leadership story
 - ricketts2026_clay_full_narrative.md — connects FL-07, FL-08, FL-09, FL-10 into a "prove it, govern it, scale it" AI-adoption story

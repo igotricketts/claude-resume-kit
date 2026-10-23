@@ -58,7 +58,19 @@ Source papers 27–37 contain bracketed placeholders (e.g., `[N]`, `[X% to Y%]`)
 | Executive reporting audience | Verified (partial) | "C-suite and frontline sales managers." The source "[board/investors]" audience is unconfirmed; do not claim board or investor delivery for these readouts (board reporting is FL-14, a separate achievement) |
 | Snowflake data-access layer | Hedge | The shared Snowflake analyst skill (connection handling, schema map, query traps) is the Florence data team's work. Say the readouts were "built on" the warehouse; never claim to have built the access layer or the dbt marts |
 | Executive communications frameworks | Credit | Copywriting frameworks are Nate Nasralla's and the design system is Florence's. "Codified" or "applied," never "created" or "developed" |
-| Other bracketed placeholders | **Unconfirmed — do not use** | Research-time reductions (accounts, sponsors, documents), accounts researched, sponsors profiled, documents produced, CRM validation-failure rates, GTM users covered, "[Q3 2026]" objective, SLA-gain action/result |
+| Other bracketed placeholders | **Unconfirmed — do not use** |
+
+### Channel, CS Ops, Global Hiring (confirmed by user 2026-10-23)
+
+Source: `knowledge_base/notes/2026-10-23_user_confirmed_channel_cs_global.md`. No metrics exist for any of these; never attach a number.
+
+| Item | Status | Correct Framing |
+|------|--------|----------------|
+| Partner/channel sales division (Florence, FL-31) | Verified (user) | "Planned and onboarded Florence Healthcare's partnership and channel sales division." No channel revenue, partner counts, or program results |
+| Customer health score (Florence, FL-32) | Verified (user) | "Led the RevOps team that kicked off a customer health score build alongside the Gainsight deployment." Kicked off, never "built," "launched," or "deployed" the score |
+| Renewal / churn / NRR-GRR reviews (Florence, FL-32) | Verified (user, shared) | "Reviewed renewal forecasts, churn risk, and NRR/GRR mitigation in recurring operating cadences." Never claim a renewal forecast model or cite NRR/GRR figures |
+| Global hiring | Verified (user) | "Hired operations representatives and BDRs across the U.S. and Europe." Employer not stated: keep it in the Summary unless the user confirms which position. No global team size |
+| RevOps tenure | Verified (dates) | RevOps department head since Jun 2021 (THREAD, then Florence). Write "13 years in B2B SaaS go-to-market, 5+ leading Revenue Operations." Never "13 years of RevOps" or "8+ years in RevOps" | Research-time reductions (accounts, sponsors, documents), accounts researched, sponsors profiled, documents produced, CRM validation-failure rates, GTM users covered, "[Q3 2026]" objective, SLA-gain action/result |
 
 ---
 

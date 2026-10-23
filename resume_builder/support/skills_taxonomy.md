@@ -48,6 +48,9 @@ _Note: SQL queries run through the Florence data team's shared Snowflake analyst
 | Sales enablement strategy & ROI modeling | Proficient | FL-20, FL-29 | MEDIUM |
 | Rep coaching & performance trajectory tracking | Proficient | FL-05, FL-26 | MEDIUM |
 | CRM data integrity governance (stage gates, validation rules, required fields) | Expert | FL-30, FL-18 | MEDIUM |
+| Channel/partner sales division planning & onboarding | Proficient | FL-31 | MEDIUM |
+| Customer Success Ops: health score kickoff, renewal/churn and NRR/GRR reviews | Proficient | FL-32, FL-15 (AM expansion comp), FL-16 (AM capacity) | MEDIUM |
+| Expansion/NRR incentive design | Proficient | FL-15 | MEDIUM |
 
 ### AI & GTM Systems
 | Skill | Proficiency | Evidence | Resume Weight |
@@ -106,7 +109,7 @@ _Note: SQL queries run through the Florence data team's shared Snowflake analyst
 | Tableau | Proficient | FL-01, FL-14 | MEDIUM |
 | QuotaPath | Proficient | FL-15 | MEDIUM |
 | 6Sense | Proficient | FL-01, FL-18, FL-19 | MEDIUM |
-| Gainsight | Familiar | FL-01 | LOW |
+| Gainsight | Familiar | FL-01, FL-32 | LOW |
 | Pendo | Familiar | FL-01 | LOW |
 | Tray.io / Clientell AI / Coefficient.io | Familiar | FL-01 | LOW |
 | ZoomInfo / Apollo.io / GlobalData | Familiar | TH-01, FL-18 | LOW |
@@ -121,5 +124,5 @@ _Note: SQL queries run through the Florence data team's shared Snowflake analyst
 | Team building & leadership (built teams of 5-8) | Expert | FL-01, BM-01 | HIGH |
 | Executive stakeholder alignment | Expert | FL-01, FL-17, FL-14 | HIGH |
 | Cross-functional program management | Expert | FL-09, FL-15, FL-19 | HIGH |
-| Hiring & team scaling | Proficient | TH-01 | MEDIUM |
+| Hiring & team scaling (incl. U.S. and Europe hires) | Proficient | TH-01, user note 2026-10-23 | MEDIUM |
 | Retrospective/process-improvement design | Proficient | FL-15 | MEDIUM |

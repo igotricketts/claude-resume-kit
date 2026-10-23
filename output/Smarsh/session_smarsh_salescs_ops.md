@@ -5,7 +5,7 @@
 - **Role:** Sr. Director, Global Sales & CS Operations (reports to VP, Revenue Operations)
 - **Company:** Smarsh (communications compliance and intelligence SaaS for 6,500+ organizations in regulated industries; privately held; Inc. 5000 every year since 2008)
 - **Bundle:** Sales Operations (primary) + Revenue Operations (secondary, for team leadership, data narrative, and AI bullets)
-- **Format:** Resume (2-page, resume.cls) + 1-page cover letter
+- **Format:** Resume (2-page, resume.cls) only. No cover letter (user, 2026-10-23)
 - **Salary/Details:** Not listed in JD
 
 ## JD Analysis
@@ -17,9 +17,9 @@
 | 3 | Pipeline and forecast management | Direct | FL-24 (forecast movement readout, reconciled to the cent), FL-02 (>120% bookings), TH-01 (forecasting models), FL-14 (coverage and go-get modeling) |
 | 4 | Incentive/comp plan design and execution; commissions governance | Direct | FL-15 (six roles incl. SMB AE, AM, Site AE, Strategic Accounts, SE; QuotaPath rebuild; 100% signatures 3 days early; post-rollout retros) |
 | 5 | SMB through Strategic accounts | Direct | Florence segments SMB, Site, and Strategic Accounts across comp (FL-15), capacity (FL-16), and board reporting (FL-14); FL-04 Strategic Accounts SAL at 350% |
-| 6 | Direct and channel | Gap | No channel/partner sales ops ownership in KB. Only adjacent: FY26 comp planning raised partner-commission questions (paper 15), cross-functional work with partnerships (FL-01 3L). Do not claim channel ops |
-| 7 | CS Ops: renewal/expansion workflows that drive retention and expansion ARR | Bridge (MEDIUM) | Account Manager expansion comp plan and ARR-vs-NRR treatment (FL-15, paper 15); AM capacity modeling (FL-16); renewal/amendment deal-type rules in AI-assisted Salesforce workflows (FL-30); new-logo vs. expansion decomposition and expansion loss-reason analysis in board reporting (FL-14); CS frameworks at THREAD (TH-01) |
-| 8 | CS Ops: renewal and churn forecasting, health scoring | Gap | Gainsight is in the Florence stack (FL-03) but no health-score build or churn/renewal forecast is sourced. Do not claim |
+| 6 | Direct and channel | Direct (updated 2026-10-23) | FL-31: planned and onboarded Florence's partnership/channel sales division (user-verified); FY26 comp planning put partner commissions on the agenda (paper 15) |
+| 7 | CS Ops: renewal/expansion workflows that drive retention and expansion ARR | Direct (updated 2026-10-23) | FL-32 (renewal/churn/NRR-GRR reviews in operating cadences); Account Manager expansion comp plan and ARR-vs-NRR treatment (FL-15, paper 15); AM capacity modeling (FL-16); renewal/amendment deal-type rules in AI-assisted Salesforce workflows (FL-30); CS frameworks at THREAD (TH-01) |
+| 8 | CS Ops: renewal and churn forecasting, health scoring | Bridge (HIGH) (updated 2026-10-23) | FL-32: led the RevOps team that kicked off a customer health score build alongside the Gainsight deployment; renewal forecasts and churn risk reviewed in recurring cadences (shared). Health score kicked off, not completed |
 | 9 | Data hygiene | Direct | FL-30 (CRM integrity rules: required fields, stage gates), FL-13 (Salesforce job-title cleanup), FL-04 ($1.7M attribution error found), FL-15 (~90% of QuotaPath discrepancies traced to SFDC data) |
 | 10 | Own full-funnel reporting and analytics; turn data into recommendations for senior leaders | Direct | FL-14 (board narrative), FL-23 (weekly C-suite readouts), FL-25 (MQL disposition), FL-22 (lead lifecycle map), TH-01 (KPI dashboards) |
 | 11 | Trusted business partner; influence VP-level stakeholders in a matrixed org without authority | Direct | FL-17 (exec approval for 4-team GTM shift), FL-18 (CRO-mandated AE-BDR model), FL-12 (ICP adopted across 3 functions), FL-16 (new-CRO onboarding) |
@@ -32,12 +32,12 @@
 | 18 | Deal Desk | Gap (LOW bridge) | Salesforce/CPQ in stack; large-deal payment schedules and custom comp agreements (paper 15); deal-type recommendations (FL-30). No Deal Desk ownership sourced. Do not claim |
 | 19 | 8+ years in Sales Ops/RevOps, incl. leading teams and managing managers | Bridge (MEDIUM) | ~5.4 years as RevOps department head (THREAD Jun 2021 → Florence present) + 5 years leading marketing with sales-CRM and inside-sales process ownership at Bio-Optronics. Hired leaders under him at THREAD (TH-01). Frame as "13 years in B2B SaaS GTM, 5+ leading RevOps"; never "8+ years in RevOps" |
 | 20 | Strong analytical foundation; builds the model and the narrative | Direct | FL-20 ($2.46M cost-of-inaction model, 11.9x ROI), FL-07 (6.8x–16.7x ROI scenarios), FL-16 (capacity model), FL-23/FL-24 (SQL on Snowflake) |
-| 21 | Experience managing global teams (preferred) | Bridge (LOW) | Rest-of-World pipeline tracking in board reporting (FL-14); global employment-agreement standardization in comp rollout (paper 15). No global team management. Do not claim |
+| 21 | Experience managing global teams (preferred) | Bridge (HIGH) (updated 2026-10-23) | Hired operations representatives and BDRs across the U.S. and Europe (user-verified; employer not stated); global employment-agreement standardization in comp rollout (paper 15); Rest-of-World pipeline tracking (FL-14) |
 | 22 | Management consulting/IB background or MBA (preferred) | Direct | MBA, Rochester Institute of Technology (FIXED Education) |
 | 23 | SaaS and consumption-based pricing models (preferred) | Partial | SaaS: Direct (13 years). Consumption pricing: Gap |
 | 24 | Piloting and rolling out AI productivity gains and/or agentic GTM processes (preferred) | Direct | FL-07 (pilot), FL-08 (production system), FL-29 (>85% adoption), FL-27/FL-28 |
 
-**Tally:** 16/24 direct, 4 bridges (incl. 1 partial), 4 gaps.
+**Tally (updated 2026-10-23 after user gap resolutions):** 18/24 direct, 4 bridges (incl. 1 partial), 2 gaps (Deal Desk, consumption pricing). Original Phase 0 tally was 16 direct, 4 bridges, 4 gaps.
 
 ### ATS Keywords
 - **Sales Ops:** Sales Operations, territory design, quota setting, capacity planning, pipeline management, forecasting, forecast accuracy, incentive compensation, comp plan design, commissions governance, QBR, operating cadence, annual planning, SMB, Strategic accounts, ARR growth
@@ -50,7 +50,8 @@
 ### Gap Assessment
 - **Direct:** Team building, territory and quota design, comp and commissions governance, forecasting and pipeline inspection, SMB-through-Strategic segmentation, data hygiene, full-funnel reporting and executive narrative, matrixed influence, AI productivity and agentic prospecting (shipped, in production), GTM tooling strategy (exact tool categories), planning and capacity, analytical modeling, MBA
 - **Bridge:** CS Ops renewal/expansion (MEDIUM: AM expansion comp, AM capacity, renewal deal-type rules, expansion analysis); 8+ years Sales/RevOps (MEDIUM: 5+ years RevOps head + 5 years marketing leadership with sales-process and CRM ownership); global (LOW: RoW reporting, global contract standardization)
-- **Gap:** Channel/partner sales ops; renewal and churn forecasting; health scoring; Deal Desk ownership; consumption-based pricing; CSM-specific AI tooling; global team management. None of these may be claimed. Skills section may name adjacent capabilities (e.g., "expansion and NRR incentive design") but never the gap items as owned work
+- **Gap:** Deal Desk ownership; consumption-based pricing; CSM-specific AI tooling. None of these may be claimed.
+- **Resolved by user 2026-10-23** (see `knowledge_base/notes/2026-10-23_user_confirmed_channel_cs_global.md`, `config.md`): channel (FL-31, planned and onboarded the partner/channel division); health score (FL-32, kicked off, not completed); renewal/churn/NRR-GRR reviews (FL-32, shared); global hiring (U.S. and Europe, employer not stated, Summary only until confirmed)
 
 ## Company Context
 - **Mission:** Smarsh helps 6,500+ organizations in regulated industries capture, archive, and supervise digital communications across 80+ channels so they can spot compliance, legal, and reputational risk before it becomes a fine or a headline. Gartner/Forrester-recognized; customer base includes 80% of the world's top global banks (per Oct 2026 press release). CEO Kim Crawford Goodman (since 2022). Acquired TeleMessage and CallCabinet.
@@ -72,11 +73,11 @@
   - "Clay daily enrichment pipeline" → "agent-driven prospecting with human approval gates"
   - "11+ platform tech stack modernization" → "GTM tooling strategy and systems roadmap"
   - "Life sciences (FDA-regulated) buyers" → "regulated-industry buyers" (light touch, CL only)
-- **Emphasize:** FL-15 (comp/commissions incl. AM expansion), FL-11 (territory), FL-16 (planning/capacity incl. AM team), FL-24 (forecast, promoted to HIGH per Sales Ops bundle rule for forecasting-heavy JDs), FL-02, FL-01 + TH-01 (team building, hiring leaders), FL-14 + FL-23 (data narrative), FL-29 + FL-27/FL-08 (AI adoption and agentic prospecting), FL-30 (data hygiene, promoted per bundle rule for CRM-hygiene JDs), FL-18 + FL-21 (operating mechanisms), FL-04/FL-05 (scrappy turnaround), FL-20 (builds the model)
+- **Emphasize:** FL-31 (channel division) and FL-32 (health score kickoff + renewal/NRR-GRR reviews) as the direct-and-channel and CS Ops proof, FL-15 (comp/commissions incl. AM expansion), FL-11 (territory), FL-16 (planning/capacity incl. AM team), FL-24 (forecast, promoted to HIGH per Sales Ops bundle rule for forecasting-heavy JDs), FL-02, FL-01 + TH-01 (team building, hiring leaders), FL-14 + FL-23 (data narrative), FL-29 + FL-27/FL-08 (AI adoption and agentic prospecting), FL-30 (data hygiene, promoted per bundle rule for CRM-hygiene JDs), FL-18 + FL-21 (operating mechanisms), FL-04/FL-05 (scrappy turnaround), FL-20 (builds the model)
 - **Downplay:** Marketing-era work (THREAD Marketing, Bio-Optronics) to 2-4 bullets total framed around systems and pipeline; ICP/persona targeting (FL-12/FL-13) at most one bullet; deep AI governance architecture (FL-09/FL-10) at most one; life sciences domain vocabulary (not a selling point for a fintech/regtech compliance vendor)
-- **Accuracy guardrails specific to this JD:** Never claim channel ops, health scoring, churn/renewal forecasting, Deal Desk, consumption pricing, global team management, or "8+ years in RevOps." Years framing: "13 years in B2B SaaS go-to-market, 5+ leading Revenue Operations." FL-23 (3 hrs/week) and FL-25 (2–3 hrs/week) never both cited; FL-23 paired with at most one of FL-24/FL-25/FL-26. FL-27 is "influenced $1M in ARR pipeline" only. FL-28 is "lifted reply rates 30%" only.
+- **Accuracy guardrails specific to this JD:** Never claim Deal Desk, consumption pricing, or "8+ years in RevOps." Channel, health score, renewal/NRR-GRR, and global hiring only in the config.md framings (no metrics, health score "kicked off"). Years framing: "13 years in B2B SaaS go-to-market, 5+ leading Revenue Operations." FL-23 (3 hrs/week) and FL-25 (2–3 hrs/week) never both cited; FL-23 paired with at most one of FL-24/FL-25/FL-26. FL-27 is "influenced $1M in ARR pipeline" only. FL-28 is "lifted reply rates 30%" only.
 - **CL hooks:** Chief Growth Officer role created Oct 15, 2026 to unite Enterprise, Corporate, Public Sector, and Global Channel units under one commercial strategy; Sept 2026 AskSmarsh AI + MCP Server + agent launch and Claude Enterprise capture integration; the JD's own "allergic to busywork" line; the shift to selling AI products on consumption pricing
-- **User directives:** None provided (no Focus:/Emphasize:/Downplay: text supplied with the JD path)
+- **User directives (2026-10-23):** Confirmed approach and said proceed. Added channel, health score, renewal/NRR-GRR, and global hiring evidence (now FL-31, FL-32, and a Summary line). No cover letter for this application. Years framing approved.
 
 ## Critique Context (captured in Phase 0, used in /critique)
 - **Reviewer persona:** The VP of Revenue Operations (hiring manager), with a recruiter screen first for the 8+ years, SMB-through-Strategic, and direct-and-channel signals. The VP wants someone to take the Sales and CS ops engine off their plate so they can work with the new CGO on strategy. Impressed by mechanics they can verify (quota/capacity math, comp governance, forecast accuracy), by evidence of managing managers, and by AI that is shipped and adopted rather than piloted and abandoned. Bored by "drove alignment" claims and dashboards presented as outcomes.
@@ -84,6 +85,7 @@
 - **Domain vocabulary:** communications compliance, archiving, supervision/surveillance, eDiscovery, regulated industries (SEC/FINRA, financial services), Communications Intelligence Platform, AskSmarsh, Enterprise / Corporate / Public Sector / Global Channel, ARR, NRR/GRR, renewal forecast, health score, Deal Desk, consumption-based pricing, agentic GTM
 
 ## Cover Letter Plan
+**NOT REQUESTED (user, 2026-10-23): no cover letter for this application.** Plan kept below for reference only.
 - **Institution type:** Industry (B2B SaaS, regulated-industry compliance software)
 - **Paragraph count:** 4 paragraphs, 250-300 words
 - **P1 hook:** Smarsh is unifying four business units under one commercial strategy while starting to sell AI agents on consumption pricing, so the ops engine has to be rebuilt for both at once. Kyle has rebuilt comp, territory, and forecasting mechanics and shipped AI into the same engine.
@@ -93,7 +95,70 @@
 - **"Why them" hook:** Smarsh sells governed AI (MCP Server under existing access controls and audit logs; Claude Enterprise capture). Kyle builds GTM AI the same way, so he would run Smarsh's own engine the way Smarsh tells customers to run theirs.
 
 ## Bullet Plan
-_(Phase 1 — PENDING)_
+
+Note: No FIXED positions. Budget calibrated to this template's real capacity: the three prior compiled resumes (Roo, eClinical, CluePoints) each fill 2 pages at 29 bullets / 58 lines with 4-3-3-3 skills. The reference card's "~20" assumes Publications and Awards sections this profile does not have.
+
+### Position 1: Sr. Director, Revenue Operations, Florence Healthcare (22 bullets, 44 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | FL-01 | RevOps function ownership + team of eight | 2L | 2 | Direct: "Build and lead a high-performing team" |
+| 2 | FL-15 | Comp overhaul across six roles incl. AM expansion plans; QuotaPath commissions governance; 100% signed 3 days early | 2L | 2 | Direct: incentive/comp design and commissions governance |
+| 3 | FL-11 | Territory redesign, 6-tier/3-segment, 4,648 accounts | 2L | 2 | Direct: territory design |
+| 4 | FL-16 | FY25 plan reconciliation (quotas on base case) + capacity model across four teams incl. AM | 2L | 2 | Direct: planning, capacity, quota |
+| 5 | FL-24 | Forecast movement readout, every change tied to a named deal, reconciled to the cent | 2L | 2 | Direct: forecast management (promoted to HIGH per Sales Ops bundle rule) |
+| 6 | FL-02 | >120% bookings (in partnership with GTM leadership) + prospecting maturity +75% | 2L | 2 | Direct: quantitative proof |
+| 7 | FL-31 | Planned and onboarded partnership/channel sales division | 2L | 2 | Direct: "direct and channel" (new, user-verified) |
+| 8 | FL-32 | Health score kickoff with Gainsight + renewal/churn/NRR-GRR reviews | 2L | 2 | Direct/Bridge HIGH: CS Ops end to end (new, user-verified) |
+| 9 | FL-14 | Board narrative: segment-level (Strategic/Site/SMB) attainment, coverage, risk | 2L | 2 | Direct: data-driven narrative for senior leaders; shows SMB-to-Strategic |
+| 10 | FL-23 | AI reporting system on Snowflake + Claude, weekly C-suite readouts, 3 hrs/week saved, reconciliation gates | 2L | 2 | Direct: full-funnel reporting + AI productivity for RevOps |
+| 11 | FL-29 | 10-skill Claude library, >85% adoption across SADR and AE teams | 2L | 2 | Direct: AI productivity for AEs, shipped and adopted |
+| 12 | FL-27 | Account intent framework, 8 buying signals, influenced $1M ARR pipeline in 3 months | 2L | 2 | Direct: agent-driven prospecting |
+| 13 | FL-08 | Automated daily AI enrichment pipeline in Salesforce, human approval gates | 2L | 2 | Direct: agentic GTM process (elevated over Sales Ops LOW default because the JD names agent-driven prospecting) |
+| 14 | FL-07 | $5.7M shortfall diagnosed → live pilot → approved AI platform | 2L | 2 | Direct: "pilot and scale new approaches" |
+| 15 | FL-03 | 11+ platform GTM stack modernization (Salesforce/CPQ, Gong, Tableau, Snowflake, QuotaPath, Gainsight) | 2L | 2 | Direct: GTM tooling strategy; exact tool categories in JD |
+| 16 | FL-30 | CRM integrity rules incl. renewal/amendment deal types in AI-assisted Salesforce workflows | 2L | 2 | Direct: data hygiene + renewal workflow (promoted per bundle CRM-hygiene rule) |
+| 17 | FL-18 | AE-BDR operating model, five-gate acceptance, CRO-mandated adoption | 2L | 2 | Direct: operating mechanisms + matrixed influence |
+| 18 | FL-21 | Weekly/monthly/quarterly forecast and pipeline cadence framework | 2L | 2 | Direct: "forecasting, pipeline/QBR cadence" (elevated over LOW default because the JD names it) |
+| 19 | FL-04 | BDR turnaround Q1, $1.7M attribution error, 126% SAL (350% Strategic) | 2L | 2 | Direct: scrappy, fix the process |
+| 20 | FL-05 | Q2 scaled gains: activity up to +266%, opps to quote +67% | 2L | 2 | Direct: coaching + build for scale |
+| 21 | FL-06 | Enterprise BDR redesign: scorecard and comp for 12 reps, OTE-neutral | 2L | 2 | Direct: comp/scorecard mechanics (Sales Ops HIGH) |
+| 22 | FL-20 | $2.46M cost-of-inaction model, 11.9x ROI enablement case | 2L | 2 | Direct: "build the model and the narrative" |
+
+**Available (o) swaps:** FL-17 (exec-approved 4-team GTM shift: strongest matrixed-influence proof), FL-12 (ICP adopted across 3 functions), FL-22 (lead lifecycle map), FL-28 (outbound copy system, reply rates up 30%), FL-10 (20-initiative AI roadmap)
+**Not recommended (x):** FL-25 and FL-26 (pairing rule: FL-23 + FL-24 already used), FL-09 (co-led governance; JD is not compliance-focused for GTM), FL-13 (persona framework, LOW for Sales Ops), FL-19 (event ops)
+
+### Position 2: Director, Revenue Operations, THREAD (3 bullets, 6 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | TH-01a | GTM-wide operating frameworks across BD, marketing, sales, and customer success | 2L | 2 | Direct: Sales + CS ops scope |
+| 2 | TH-01b | KPI dashboards and forecasting models for ARR and bookings, presented to the Board; FP&A | 2L | 2 | Direct: forecasting + narrative |
+| 3 | TH-01c | Hired leaders in sales ops, marketing ops, and systems admin | 2L | 2 | Bridge: "managing managers" |
+
+### Position 3: Senior Manager, Marketing, THREAD (1 bullet, 2 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | TM-01 | HubSpot–Salesforce integration for full-funnel attribution + >25% MQL growth in three months | 2L | 2 | Systems-of-record framing; keeps the career arc |
+
+### Position 4: Marketing Manager, Bio-Optronics (now Advarra) (2 bullets, 4 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | BM-01 | Team of five, >25% annual SaaS CARR growth, >80% marketing-sourced, >500% ROI | 2L | 2 | Sustained growth proof |
+| 2 | BM-02 | HubSpot as sales CRM + inside-sales process, MQL-to-opportunity conversion 3x | 2L | 2 | Sales process + CRM ownership (supports the 13-year GTM framing) |
+
+**Not recommended (x):** BM-03 (co-led UX), BM-04, BM-05 (LOW for Sales Ops)
+
+### Position 5: Brand Manager & Marketing Specialist, Bio-Optronics (collapsed, 1 bullet, 2 rendered lines)
+| # | ID | Achievement | Variant | Lines | Rationale |
+|---|-----|------------|---------|-------|-----------|
+| 1 | BR-01 + MS-01 | Brand strategy (2015–2016) and early campaign/sales enablement execution (2013–2015) | 2L | 2 | Closes the 2013–2016 date gap only |
+
+**Budget:** 29 variable bullets, 58 rendered lines vs. calibrated target 29 bullets / 58 lines. Page Fill Gate in Phase 2 will add or trim from the swap pool.
+
+**Changes vs. Sales Ops Priority Matrix defaults:** FL-24 and FL-30 promoted (bundle's own rules for forecasting and CRM-hygiene JDs); FL-31 and FL-32 added (new, user-verified); FL-08 and FL-21 elevated from LOW (JD names agentic prospecting and forecast/pipeline cadence); FL-23 and FL-14 kept from the RevOps bundle (data narrative); marketing roles condensed to 4 bullets.
+
+**Forced exclusions (provenance):** FL-25/FL-26 (pairing rule with FL-23); FL-25's 2–3 hrs/week never with FL-23's 3 hrs/week; no FL-28 30% lift or FL-27 $1M repeated as library results.
+
+**Open question for user:** Global hiring (U.S. and Europe) sits in the Summary because the employer wasn't stated. If it was Florence, it can also go in the FL-01 bullet.
 
 ## Output Files
 - Resume: `output/Smarsh/e2e_smarsh_salescs_ops_resume.tex` (PENDING)
@@ -111,11 +176,10 @@ _(Phase 1 — PENDING)_
 - Note: no Smarsh-specific source found on consumption pricing or channel program detail; JD text is the only source for those.
 
 ## Status
-- Phase 0: DONE
-- Phase 1: PENDING
+- Phase 0: DONE (confirmed by user 2026-10-23, with gap resolutions)
+- Phase 1: PLAN PRESENTED (29 bullets, awaiting user confirmation)
 - Phase 2 Resume: PENDING
-- Cover Letter: PENDING
+- Cover Letter: NOT REQUESTED
 - Critique: PENDING
-- **Next:** Confirm role type/bundle, format, and framing strategy → Phase 1
-- **Next CL:** /make-cl output/Smarsh/session_smarsh_salescs_ops.md
+- **Next:** Confirm bullet plan → Budget Gate → Phase 2
 - **Next Critique:** /critique output/Smarsh/session_smarsh_salescs_ops.md
