@@ -160,9 +160,38 @@ Note: No FIXED positions. Budget calibrated to this template's real capacity: th
 
 **Open question for user:** Global hiring (U.S. and Europe) sits in the Summary because the employer wasn't stated. If it was Florence, it can also go in the FL-01 bullet.
 
+## Phase 2 Generation Notes
+
+Generated per the confirmed 29-bullet plan with no swaps needed: the first compile filled 2 pages with about 2 lines of white space on page 2 (Page Fill Gate ≤3 lines: PASS).
+
+- **Header tagline:** "Sales & CS Operations Leader | Territory, Quota, Comp & Forecasting | AI-Enabled GTM" (82 chars).
+- **Summary:** 549 chars, 5 lines. Uses the approved years framing ("13 years in B2B SaaS go-to-market, the last 5+ leading Revenue Operations"). Global hiring appears here only, since the employer is unconfirmed.
+- **Core Competencies:** 4-3-3-3; every skill line fits on one line.
+- **Florence header theme:** "Sales & CS Operations, Comp, Forecasting & AI-Enabled GTM".
+
+**Fixes made during the gates:**
+- Length: trimmed or padded 11 bullets toward ~200 chars.
+- Orphans: fixed 3 short last lines (FL-02, FL-27, FL-05).
+- Spacing: used `vs.\ ` to stop LaTeX's wide sentence spacing after "vs.".
+- AI-fingerprint: reworded two bullets that ended on -ing nouns (FL-14, FL-05). Replaced "utilized" with "actual" in FL-16.
+- Accuracy: FL-08 reworded from "prospecting pipeline" to "enrichment and personalization workflow for prospecting" so it can't be misread as sales pipeline. FL-06 says "authored an approved redesign" (proposal status), not "redesigned."
+
+**Provenance check:**
+- FL-23 is paired only with FL-24, and FL-25's hours figure is absent.
+- FL-27 reads "influencing $1M in ARR pipeline."
+- FL-29 reads ">85% adoption across SADR and AE teams."
+- FL-31 and FL-32 use only the config.md framings (health score "kicked off").
+- Bookings carry "in partnership with GTM leadership."
+- "Florence Healthcare" and "Bio-Optronics (now Advarra)" appear in full on first mention.
+
+**Post-generation verification:**
+- char_count.py: 29/29 bullets in range; FL-07 renders at 204, the tool reports 206 because it counts `\%` and `\ ` as 2 chars each.
+- Compile: 2 pages, 0 overfull/underfull warnings, all position headers on one line, every bullet exactly 2 rendered lines (visually verified).
+- Writing checks: 0 rendered em-dashes, 0 banned words or phrases, no -ing bullet endings.
+
 ## Output Files
-- Resume: `output/Smarsh/e2e_smarsh_salescs_ops_resume.tex` (PENDING)
-- Cover Letter: `output/Smarsh/e2e_smarsh_salescs_ops_cover_letter.tex` (PENDING)
+- Resume: `output/Smarsh/e2e_smarsh_salescs_ops_resume.tex` (+ `resume.cls`; compiled `.pdf` is gitignored)
+- Cover Letter: not requested
 - Critique: `output/Smarsh/critique_smarsh_salescs_ops.md` (PENDING)
 
 ## Research Sources
@@ -177,9 +206,19 @@ Note: No FIXED positions. Budget calibrated to this template's real capacity: th
 
 ## Status
 - Phase 0: DONE (confirmed by user 2026-10-23, with gap resolutions)
-- Phase 1: PLAN PRESENTED (29 bullets, awaiting user confirmation)
-- Phase 2 Resume: PENDING
+- Phase 1: DONE (29 bullets confirmed by user 2026-10-23)
+- Budget Gate: PASS (29 bullets / 58 lines vs. calibrated 29 / 58)
+- Phase 2 Resume:
+  - Summary: DONE
+  - Skills: DONE
+  - Position 1 (Florence, 22 bullets): DONE
+  - Position 2 (THREAD RevOps, 3 bullets): DONE
+  - Position 3 (THREAD Marketing, 1 bullet): DONE
+  - Position 4 (Bio-Optronics MM, 2 bullets): DONE
+  - Position 5 (Bio-Optronics early career, 1 bullet): DONE
+  - Compile: DONE (2 pages, char-count gate clean, page fill PASS, AI-fingerprint scan clean)
+- Resume: DONE
 - Cover Letter: NOT REQUESTED
 - Critique: PENDING
-- **Next:** Confirm bullet plan → Budget Gate → Phase 2
+- **Next:** /critique output/Smarsh/session_smarsh_salescs_ops.md
 - **Next Critique:** /critique output/Smarsh/session_smarsh_salescs_ops.md

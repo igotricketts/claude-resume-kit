@@ -135,7 +135,7 @@ _Update this section when starting/finishing a JD._
 | Roo — Director, Revenue Operations | Resume: DONE | /make-cl output/Roo/session_roo_revops.md |
 | eClinical Solutions — Director/VP, RevOps & Commercial Systems | Resume: DONE | /make-cl output/eClinical/session_eclinical_revops.md |
 | CluePoints — VP, Commercial Programs | Resume: DONE | /make-cl output/CluePoints/session_cluepoints_vp.md |
-| Smarsh — Sr. Director, Global Sales & CS Operations | Phase 1: plan presented (awaiting confirmation); no CL | /make-resume JDs/Smarsh (resumes at Budget Gate) |
+| Smarsh — Sr. Director, Global Sales & CS Operations | Resume: DONE; no CL | /critique output/Smarsh/session_smarsh_salescs_ops.md |
 
 ---
 
